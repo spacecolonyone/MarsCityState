@@ -1,8 +1,8 @@
-The following is a design of an envisioned city on Mars. It describes one of the first large settlements in space - one that should be possible to build already in this century. Its design focuses on characteristics that will make it practical, vital and sustainable. As such, the design of this city will greatly differ than possible designs of future cities created after mankind has well established its presence in space.
+The following is a design of an envisioned city on Mars. It describes a pioneering large settlement in space - one that should be possible to build already in 21st century. Its design focuses on characteristics that will make it practical, vital and sustainable. As such, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space.
 
 # Design principles
 
-The city is designed with these principles:
+The design of the city is based on these principles:
 * It should be economically viable
 * It should be attractive to live in
 * It should provide its citizens with standard of living comparable to that of Earth cities
