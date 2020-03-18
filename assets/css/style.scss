@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+ background: SaddleBrown;
+}
+
 #main-content {
  float: left;
  width: 100%;
