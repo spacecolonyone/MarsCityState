@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#main-content {
+ float: left;
+ width: 100%;
+}
+
+#sidebar {
+ display: none;
+}
