@@ -1,5 +1,11 @@
 The following is a design of an envisioned city on Mars. It describes a pioneering large settlement in space - one that should be possible to build already in 21st century. Its design focuses on characteristics that will make it practical, vital and sustainable. As such, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space.
 
+Summary of the city design instead of design principles:
+- economics of the city - three roles: governor providing infrastructure and service platform, service companies providing services and citizens
+- three phases that fuel growth with unique attractiveness
+- life support - with minimum set of services
+- politics, culture, economy, ... - participates in the "global" (now interplanetary) system but will quickly build own style and add to diversity of human civilization. Large set of services. Good standard of living. It will become a great place to live in
+
 # Design principles
 
 The design of the city is based on these principles:
