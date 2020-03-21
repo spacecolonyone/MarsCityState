@@ -6,16 +6,7 @@ Summary of the city design instead of design principles:
 - life support - with minimum set of services
 - politics, culture, economy, ... - participates in the "global" (now interplanetary) system but will quickly build own style and add to diversity of human civilization. Large set of services. Good standard of living. It will become a great place to live in
 
-# Design principles
-
-The design of the city is based on these principles:
-* It should be economically viable
-* It should be attractive to live in
-* It should provide its citizens with standard of living comparable to that of Earth cities
-* It should be part of the human civilization by participating in:
-  ** the "global" economy we have in 21st century extended to "space"
-  ** the political system of the Earth, with cities on Mars be administered by governments or corporations as if on the Earth
-  ** the cultural system
+![figure-roadmap](https://user-images.githubusercontent.com/637315/77237552-fa4e6500-6bd1-11ea-84c4-7a082a0c2048.png)
 
 # Development and growth
 
