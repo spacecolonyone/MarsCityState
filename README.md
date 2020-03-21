@@ -52,7 +52,7 @@ Building blocks of infrastructure, private spaces and social spaces
 - protection from radiation
 - sunlight
 
-# Minimum set of services
+## Minimum set of services
 
 - air conditioning
 - water
