@@ -1,12 +1,30 @@
 The following is a design of an envisioned city on Mars. It describes a pioneering large settlement in space - one that should be possible to build already in 21st century. Its design focuses on characteristics that will make it practical, vital and sustainable. As such, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space.
 
+```
 Summary of the city design instead of design principles:
-- economics of the city - three roles: governor providing infrastructure and service platform, service companies providing services and citizens
+- economics of the city - three roles: governor providing infrastructure and service platform, service companies providing services and the residents/citizens
 - three phases that fuel growth with unique attractiveness
 - life support - with minimum set of services
 - politics, culture, economy, ... - participates in the "global" (now interplanetary) system but will quickly build own style and add to diversity of human civilization. Large set of services. Good standard of living. It will become a great place to live in
+```
+
+The design of the city follows a roadmap of three key milestones and the interaction of three key participating groups:
 
 ![figure-roadmap](https://user-images.githubusercontent.com/637315/77237552-fa4e6500-6bd1-11ea-84c4-7a082a0c2048.png)
+
+ - The city is founded in 2030 with the infrastructure and staff to support scientists and tourists. The city will gradually attract more scientists and tourists and re-invest the income in scaling the infrastructure and staff, with 8:2 ratio of staff to scientists/tourists, until it reaches population of 1 thousand
+ - The city will build its first space elevator in 2050. The elevator will be a wonder of the world on its own with great economic and social impact. It will mark a turning point for the city when it will offer more affordable way for certain people to maintain their desired standard of living on Mars than on the Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists
+ - The city will build its first industry factory in space in 2100. The factory will have strong competitive advantages over the industries on the Earth in producing certain products by exploiting the vacuum of space, zero gravity, less risk of polution. The city will maintain average yearly growth of 4-5% to reach a population of 1 million until 2150
+
+The city growth is driven by the interaction of three groups:
+
+```
+diagram of Governor, Service companies, Residents
+```
+
+ - Governor - the governor provides the infrastructure and a service platform for the services
+ - Service companies - service companies provide paid services to city residents
+ - Residents - the residents pay tax to the governor and consume the services from service companies
 
 # Development and growth
 
