@@ -16,6 +16,8 @@ The design of the city follows a roadmap of three key milestones and the interac
  - **Milestone 2**: The city will build its first space elevator in around 2050. The elevator will be a wonder of the world on its own with great economic and social impact. It will mark a turning point for the city when it will offer more affordable way for certain people to maintain their desired standard of living on Mars than on the Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists
  - **Milestone 3**: The city will build its first industry factory in space in around 2100. The factory will have strong competitive advantages over the industries on the Earth in producing certain products by exploiting the vacuum of space, zero gravity, less risk of polution. The city will maintain average yearly growth of 4-5% to reach a population of 1 million by around 2150
 
+# Structure
+
 The city growth is driven by the interaction of three groups:
 
 ```
@@ -26,9 +28,39 @@ diagram of Governor, Service companies, Residents
  - Service companies - service companies provide paid services to city residents
  - Residents - the residents pay tax to the governor and consume the services from service companies
 
-# Development and growth
+```
+ - value exchange
+ - finance of each role
+```
+
+# Basics
+
+```
+ - infrastructure
+ - service platform - standartization and regulation
+ - minimum set of services
+ - this set scales with growth
+```
 
 A government or private entity will found the city. People will then move into the city to live and work in. Service companies will also move into the city to continue developing it.
+
+This section describes the city design
+
+Building blocks of infrastructure, private spaces and social spaces
+
+- living space
+- protection from radiation
+- sunlight
+
+# Minimum set of services
+
+- air conditioning
+- water
+- heating
+- food
+- waste management
+
+# Growth
 
 The city will go through three phases with respect to its economy development:
 1. Science and tourism - The short-term phase in which the population is between 10 and 1 thousand. The city will develop unique opportunities for scientists and tourists to support its growth
@@ -80,25 +112,9 @@ The role of governor, citizens, service companies. The point of view of governor
 At this point the city will have advantage over the Earth in building a large industrial complex in space. This industrial complex will have unique possibilities for supporting special technologies and developing economies. For example, it will have easier access to asteroid-mined resources, will be able to use technologies relying on zero-gravity or vacuum, will be less exposed to risks of polution, etc.
 The city will use its space elevator to build the complex at a lower cost for transportation and construction as compared to Earth competition. The complex will be robotized and controlled from Mars surface.
 
-# Habitat and life support
+# Amenities
 
-This section describes the city design
-
-Building blocks of infrastructure, private spaces and social spaces
-
-- living space
-- protection from radiation
-- sunlight
-
-# Minimum set of services
-
-- air conditioning
-- water
-- heating
-- food
-- waste management
-
-# 
+------------------------
 
 # References
 
