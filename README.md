@@ -1,3 +1,6 @@
+Source: https://spacecolonyone.github.io/MarsCityState/
+Simulations: https://cloud.anylogic.com/model/a53e8273-a981-48dc-9fe3-38dde2ee6ce2
+
 The following is a design of an envisioned city on Mars. It describes a pioneering large settlement in space - one that should be possible to build already in 21st century. Its design focuses on characteristics that will make it practical, vital and sustainable. As such, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space.
 
 The design of the city is based on these key characteristics:
