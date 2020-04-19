@@ -1,7 +1,3 @@
-Source: https://spacecolonyone.github.io/MarsCityState/
-
-Simulations: https://cloud.anylogic.com/model/a53e8273-a981-48dc-9fe3-38dde2ee6ce2
-
 The following is a design of an envisioned city on Mars. It describes a pioneering large settlement in space - one that should be possible to build already in 21st century. Its design focuses on characteristics that will make it practical, vital and sustainable. As such, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space.
 
 The design of the city is based on these key characteristics:
@@ -18,6 +14,20 @@ Summary of the city design instead of design principles:
 - politics, culture, economy, ... - participates in the "global" (now interplanetary) system but will quickly build own style and add to diversity of human civilization. Large set of services. Good standard of living. It will become a great place to live in
 ```
 
+# Economic attractiveness
+
+```
+projections for World population growth 2000-2100
+projections for World GDP per capita
+note on population growth as key driver for economic growth
+note on competition in saturated markets
+note on utilization of natural resources (e.g. polution, fresh water) and how it affects economy and living standards
+projections for Mars City population growth
+note on reversed economic development of the city - knowledge -> service -> manufacturing -> extraction - thus GDP will start high
+conclusion that Mars City will have steady economic growth that will attract governor and businesses
+```
+
+# Development roadmap
 The design of the city follows a roadmap of three key milestones and the interaction of three key participating groups:
 
 ![figure-roadmap](https://user-images.githubusercontent.com/637315/77237552-fa4e6500-6bd1-11ea-84c4-7a082a0c2048.png)
@@ -26,7 +36,7 @@ The design of the city follows a roadmap of three key milestones and the interac
  - **Milestone 2**: The city will build its first space elevator in around 2050. The elevator will be a wonder of the world on its own with great economic and social impact. It will mark a turning point for the city by offering more affordable way for certain people to maintain their desired standard of living on Mars than on the Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists
  - **Milestone 3**: The city will build its first industry factory in space in around 2100. The factory will have strong competitive advantages over the industries on the Earth in producing certain products by exploiting the vacuum of space, zero gravity, less risk of polution. The city will maintain average yearly growth of 4-5% to reach a population of 1 million by around 2150
 
-# Structure
+# Service platform
 
 The city growth is driven by the interaction of three groups:
 
@@ -122,11 +132,22 @@ The role of governor, citizens, service companies. The point of view of governor
 At this point the city will have advantage over the Earth in building a large industrial complex in space. This industrial complex will have unique possibilities for supporting special technologies and developing economies. For example, it will have easier access to asteroid-mined resources, will be able to use technologies relying on zero-gravity or vacuum, will be less exposed to risks of polution, etc.
 The city will use its space elevator to build the complex at a lower cost for transportation and construction as compared to Earth competition. The complex will be robotized and controlled from Mars surface.
 
+# Modular infrastruture
+
+```
+Description of blocks
+Simulation of evolution of city - moving neighborhoods
+Simulation of logistics in 
+```
+
 # Amenities
 
 ------------------------
 
 # References
 
+* https://SpaceColonyOne.github.io/MarsCityState/ - Web location of this document
+* https://github.com/SpaceColonyOne/MarsCityState - Source of this document
+* https://cloud.anylogic.com/model/a53e8273-a981-48dc-9fe3-38dde2ee6ce2 - Simulations referred in this document
 * https://www.researchgate.net/publication/222382174_Population_Growth_in_the_World's_Largest_Cities - assumption for growth of 10% in second phase and 5% in third phase
 * https://ourworldindata.org/world-population-growth - 
