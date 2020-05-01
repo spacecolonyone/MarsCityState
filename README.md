@@ -3,8 +3,8 @@ The following is a design of an envisioned city on Mars. It describes a pioneeri
 The design of the city is based on these key characteristics:
  * Economic attractiveness - while the Earth in 21st century sees a limit to its population and fierce competition over natural resources, the city on Mars will offer businesses healthy economic growth through access to fast-growing population and untapped resources
  * Development roadmap - the identity of the city will evolve around three key milestones in its development, attracting the right residents
- * Modular infrastructure - the infrastructure provides basis for the logistics in the city through an assembly of standardized reusable blocks. The blocks are easy to replace when damaged and to relocate when the city needs to evolve
- * Service platform - the city provides a platform for services for the needs of its residents and businesses. It makes it easy for businesses to start their operations and to scale fast. It also ensures all services are safe for the residents
+ * Modular infrastructure - the infrastructure provides basis for the logistics in the city through an assembly of standardized reusable blocks. The blocks are easy to replace when damaged and easy to relocate when the city needs to evolve
+ * Service platform - the city provides a platform for services for the needs of its residents and businesses. It makes it easy for businesses to start their operations and scale fast. It also ensures all services are safe for the residents
 
 ```
 Summary of the city design instead of design principles:
@@ -33,8 +33,8 @@ The design of the city follows a roadmap of three key milestones and the interac
 ![figure-roadmap](https://user-images.githubusercontent.com/637315/77237552-fa4e6500-6bd1-11ea-84c4-7a082a0c2048.png)
 
  - **Milestone 1**: The city is founded in around 2030 with the infrastructure and staff to support scientists and tourists. The city will gradually attract more scientists and tourists and re-invest the income in scaling the infrastructure and staff, with 8:2 ratio of staff to scientists/tourists, until it reaches population of 1 thousand
- - **Milestone 2**: The city will build its first space elevator in around 2050. The elevator will be a wonder of the world on its own with great economic and social impact. It will mark a turning point for the city by offering more affordable way for certain people to maintain their desired standard of living on Mars than on the Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists
- - **Milestone 3**: The city will build its first industry factory in space in around 2100. The factory will have strong competitive advantages over the industries on the Earth in producing certain products by exploiting the vacuum of space, zero gravity, less risk of polution. The city will maintain average yearly growth of 4-5% to reach a population of 1 million by around 2150
+ - **Milestone 2**: The city will build its first space elevator in around 2050. The elevator will be in its own right a "wonder of the world" with great economic and social impact. It will mark a turning point for the city by offering more affordable way for people to maintain their desired standard of living on Mars as compared to the Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists
+ - **Milestone 3**: The city will build its first industrial factory in space in around 2100. The factory will have strong competitive advantages over the industrial sites on the Earth in producing certain products by exploiting the vacuum of space, zero gravity, less risk of polution. The city will maintain average yearly growth of 4-5% to reach a population of 1 million by around 2150
 
 # Service platform
 
