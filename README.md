@@ -48,6 +48,24 @@ diagram of Governor, Service companies, Residents
  - Service companies - service companies provide paid services to city residents
  - Residents - the residents pay tax to the governor and consume the services from service companies
 
+The platform of services is a key component of the city design.
+
+The service platform will start small with the foundation of the city and will grow with it. It will also influence the three milestones.
+
+```
+Diagram with the raodmap of the service platform along the milestones
+ - the diagram shows when the three key characteristics develop
+```
+
+When the city is founded, the governer will be hiring the companies and staff accomodating the scientists and tourists. It will also hire service companies to provide the minimal set of services to support life in the city.
+
+Already at this point the governor will provide the **common infrastructure** to support delivery of those services. The governor will also **regulate the sevices** to ensure residents receive adequate life support and that relevant risks with disruption and health are mitigated. The service platform will have developed two of its three key characterstics but will still be small and funded by the governor.
+
+When the city passes **Milestone 1** the service platform will need to expand to support more than 1 thousand residents. It will add its third key characteristic - a marketplace for services. The platform will continue providing the common infrastructure and regulation over services and will now also be driven by competition based on the free market forces of supply and demand. At this point it will be common for more than one service company to provide the same or similar services, since they are now attracted by the market and not hired by the governor.
+
+
+
+
 ```
  - value exchange
  - finance of each role
