@@ -32,9 +32,20 @@ The design of the city follows a roadmap of three key milestones and the interac
 
 ![figure-roadmap](https://user-images.githubusercontent.com/637315/77237552-fa4e6500-6bd1-11ea-84c4-7a082a0c2048.png)
 
- - **Milestone 1**: The city is founded in around 2030 with the infrastructure and staff to support scientists and tourists. The city will gradually attract more scientists and tourists and re-invest the income in scaling the infrastructure and staff, with 8:2 ratio of staff to scientists/tourists, until it reaches population of 1 thousand
- - **Milestone 2**: The city will build its first space elevator in around 2050. The elevator will be in its own right a "wonder of the world" with great economic and social impact. It will mark a turning point for the city by offering more affordable way for people to maintain their desired standard of living on Mars as compared to the Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists
- - **Milestone 3**: The city will build its first industrial factory in space in around 2100. The factory will have strong competitive advantages over the industrial sites on the Earth in producing certain products by exploiting the vacuum of space, zero gravity, less risk of polution. The city will maintain average yearly growth of 4-5% to reach a population of 1 million by around 2150
+## City founded
+The city is founded in around 2030 with the infrastructure and staff to support scientists and tourists
+
+![milestone-0](https://user-images.githubusercontent.com/637315/80892340-e8cca280-8cd1-11ea-9169-333a8a96d340.png)
+
+The city will gradually attract more scientists and tourists and re-invest the income in scaling the infrastructure and staff, with 8:2 ratio of staff to scientists/tourists, until it reaches population of 1 thousand
+
+## Milestone 1 - Population of 1000
+
+## Milestone 2
+The city will build its first space elevator in around 2050. The elevator will be in its own right a "wonder of the world" with great economic and social impact. It will mark a turning point for the city by offering more affordable way for people to maintain their desired standard of living on Mars as compared to the Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists
+
+## Milestone 3
+The city will build its first industrial factory in space in around 2100. The factory will have strong competitive advantages over the industrial sites on the Earth in producing certain products by exploiting the vacuum of space, zero gravity, less risk of polution. The city will maintain average yearly growth of 4-5% to reach a population of 1 million by around 2150
 
 # Service platform
 
