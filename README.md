@@ -203,3 +203,4 @@ Simulation of logistics in
 * https://cloud.anylogic.com/model/a53e8273-a981-48dc-9fe3-38dde2ee6ce2 - Simulations referred in this document
 * https://www.researchgate.net/publication/222382174_Population_Growth_in_the_World's_Largest_Cities - assumption for growth of 10% in second phase and 5% in third phase
 * https://ourworldindata.org/world-population-growth - 
+* https://en.wikipedia.org/wiki/Earth_structure
