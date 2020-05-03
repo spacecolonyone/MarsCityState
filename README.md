@@ -2,32 +2,48 @@ The following is a design of an envisioned city on Mars. It describes a pioneeri
 
 The design of the city is based on four key characteristics:
  * **Economic attractiveness** - while the Earth in 21st century is seeing the limit to its population and fierce competition over natural resources, the city on Mars will offer businesses healthy economic growth through access to **fast-growing population** and **untapped resources**
- * **Development roadmap** - the **identity of the city** will evolve around a sequence of **important milestones** in its development - building the first space elevator and the first industrial factory in space - attracting the right residents to support it
+ * **Development roadmap** - the **identity of the city** will evolve around a sequence of **major milestones** in its development - building the first space elevator and the first industrial factory in space - attracting the right residents to support it
  * **Service platform** - the city will provide a platform for services for the needs of its residents and businesses. It will make it easy for businesses to start their operations and **scale fast**. It will also ensure all services are **safe for the residents**
  * **Modular infrastructure** - the infrastructure provides basis for the logistics in the city through an assembly of **standardized blocks**. The blocks are easy to replace when damaged and easy to relocate when the city needs to **adapt and evolve**
+
+and the interaction of three key participating groups:
+ * **Governor**
+ * **Residents**
+ * **Service companies**
 
 # Economic attractiveness
 
 ```
+Section #1
 projections for World population growth 2000-2100
 projections for World GDP per capita
 note on population growth as key driver for economic growth
 note on competition in saturated markets
 note on utilization of natural resources (e.g. polution, fresh water) and how it affects economy and living standards
 projections for Mars City population growth
+```
+
+![figure-roadmap](https://user-images.githubusercontent.com/637315/77237552-fa4e6500-6bd1-11ea-84c4-7a082a0c2048.png)
+
+```
+Section #2
 note on reversed economic development of the city - knowledge -> service -> manufacturing -> extraction - thus GDP will start high
 conclusion that Mars City will have steady economic growth that will attract governor and businesses
 ```
 
+```
+Section #3
+Governor as founder of city, investor and administration.
+Calculate ROI for governor.
+```
+
 # Development roadmap
-The design of the city follows a roadmap of three key milestones and the interaction of three key participating groups:
+The design of the city follows a roadmap of four major milestones:
 
 ```
 - economics of the city - three roles: governor providing infrastructure and service platform, service companies providing services and the residents/citizens
 - three phases that fuel growth with unique attractiveness
 ```
-
-![figure-roadmap](https://user-images.githubusercontent.com/637315/77237552-fa4e6500-6bd1-11ea-84c4-7a082a0c2048.png)
 
 ## 2030: City founded
 The city is founded in around 2030 with the infrastructure and staff to support scientists and tourists
