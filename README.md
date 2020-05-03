@@ -1,10 +1,10 @@
 The following is a design of an envisioned city on Mars. It describes a pioneering large settlement in space - one that should be possible to build already in 21st century. Its design focuses on characteristics that will make it practical, vital and sustainable. As such, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space.
 
-The design of the city is based on these key characteristics:
- * Economic attractiveness - while the Earth in 21st century sees a limit to its population and fierce competition over natural resources, the city on Mars will offer businesses healthy economic growth through access to fast-growing population and untapped resources
- * Development roadmap - the identity of the city will evolve around three key milestones in its development, attracting the right residents
- * Modular infrastructure - the infrastructure provides basis for the logistics in the city through an assembly of standardized reusable blocks. The blocks are easy to replace when damaged and easy to relocate when the city needs to evolve
- * Service platform - the city provides a platform for services for the needs of its residents and businesses. It makes it easy for businesses to start their operations and scale fast. It also ensures all services are safe for the residents
+The design of the city is based on four key characteristics:
+ * **Economic attractiveness** - while the Earth in 21st century is seeing the limit to its population and fierce competition over natural resources, the city on Mars will offer businesses healthy economic growth through access to **fast-growing population** and **untapped resources**
+ * **Development roadmap** - the **identity of the city** will evolve around a sequence of **important milestones** in its development - building the first space elevator and the first industrial factory in space - attracting the right residents to support it
+ * **Service platform** - the city will provide a platform for services for the needs of its residents and businesses. It will make it easy for businesses to start their operations and **scale fast**. It will also ensure all services are **safe for the residents**
+ * **Modular infrastructure** - the infrastructure provides basis for the logistics in the city through an assembly of **standardized blocks**. The blocks are easy to replace when damaged and easy to relocate when the city needs to **adapt and evolve**
 
 ```
 Summary of the city design instead of design principles:
