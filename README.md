@@ -6,14 +6,6 @@ The design of the city is based on four key characteristics:
  * **Service platform** - the city will provide a platform for services for the needs of its residents and businesses. It will make it easy for businesses to start their operations and **scale fast**. It will also ensure all services are **safe for the residents**
  * **Modular infrastructure** - the infrastructure provides basis for the logistics in the city through an assembly of **standardized blocks**. The blocks are easy to replace when damaged and easy to relocate when the city needs to **adapt and evolve**
 
-```
-Summary of the city design instead of design principles:
-- economics of the city - three roles: governor providing infrastructure and service platform, service companies providing services and the residents/citizens
-- three phases that fuel growth with unique attractiveness
-- life support - with minimum set of services
-- politics, culture, economy, ... - participates in the "global" (now interplanetary) system but will quickly build own style and add to diversity of human civilization. Large set of services. Good standard of living. It will become a great place to live in
-```
-
 # Economic attractiveness
 
 ```
@@ -29,6 +21,11 @@ conclusion that Mars City will have steady economic growth that will attract gov
 
 # Development roadmap
 The design of the city follows a roadmap of three key milestones and the interaction of three key participating groups:
+
+```
+- economics of the city - three roles: governor providing infrastructure and service platform, service companies providing services and the residents/citizens
+- three phases that fuel growth with unique attractiveness
+```
 
 ![figure-roadmap](https://user-images.githubusercontent.com/637315/77237552-fa4e6500-6bd1-11ea-84c4-7a082a0c2048.png)
 
@@ -64,6 +61,8 @@ The city growth is driven by the interaction of three groups:
 
 ```
 diagram of Governor, Service companies, Residents
+- life support - with minimum set of services
+- politics, culture, economy, ... - participates in the "global" (now interplanetary) system but will quickly build own style and add to diversity of human civilization. Large set of services. Good standard of living. It will become a great place to live in
 ```
 
  - Governor - the governor provides the infrastructure and a service platform for the services
