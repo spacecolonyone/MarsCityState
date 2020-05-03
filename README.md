@@ -35,18 +35,28 @@ The design of the city follows a roadmap of three key milestones and the interac
 ## 2030: City founded
 The city is founded in around 2030 with the infrastructure and staff to support scientists and tourists
 
-![milestone-0](https://user-images.githubusercontent.com/637315/80892340-e8cca280-8cd1-11ea-9169-333a8a96d340.png)
+![milestone-0](https://user-images.githubusercontent.com/637315/80925239-c18bd900-8d96-11ea-809f-1862df0036ea.png)
 
 The city will gradually attract more scientists and tourists and re-invest the income in scaling the infrastructure and staff, with 8:2 ratio of staff to scientists/tourists, until it reaches population of 1 thousand
 
 ## 2050: First Space elevator
-The city will build its first space elevator in around 2050. The elevator will be in its own right a "wonder of the world" with great economic and social impact. It will mark a turning point for the city by offering more affordable way for people to maintain their desired standard of living on Mars as compared to the Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists
+The city will build its first space elevator in around 2050.
+
+![milestone-1](https://user-images.githubusercontent.com/637315/80925241-c2bd0600-8d96-11ea-8f41-4438bb606af3.png)
+
+The elevator will be in its own right a "wonder of the world" with great economic and social impact. It will mark a turning point for the city by offering more affordable way for people to maintain their desired standard of living on Mars as compared to the Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists
 
 ## 2100: First industrial factory in space
-The city will build its first industrial factory in space in around 2100. The factory will have strong competitive advantages over the industrial sites on the Earth in producing certain products by exploiting the vacuum of space, zero gravity, less risk of polution.
+The city will build its first industrial factory in space in around 2100.
+
+![milestone-2](https://user-images.githubusercontent.com/637315/80925235-bd5fbb80-8d96-11ea-87cb-a1a8ce36ce03.png)
+
+The factory will have strong competitive advantages over the industrial sites on the Earth in producing certain products by exploiting the vacuum of space, zero gravity, less risk of polution.
 
 ## 2150: Population of 1 million
-The city will maintain average yearly growth of 4-5% to reach a population of 1 million by around 2150
+The city will maintain average yearly growth of 4-5% to reach a population of 1 million by around 2150.
+
+![milestone-3](https://user-images.githubusercontent.com/637315/80925238-bfc21580-8d96-11ea-9972-8bed55533ed6.png)
 
 # Service platform
 
