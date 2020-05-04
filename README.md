@@ -180,18 +180,73 @@ When the city passes **Milestone 1** the service platform will need to expand to
 
 # Modular infrastruture
 
-This section describes the city design
+An important part of the city design is the modular infrastructure consisting of connected modules as floor and logisticts, rammed soil cover, maintenance drones and the control center that are the physicals support of the service platform.
 
-Building blocks of infrastructure, private spaces and social spaces
+## Modules
 
-- living space
-- protection from radiation
-- sunlight
+There are modules made of metal that are laid on the ground and connected to each other. These modules give the floor of all spaces in the city - private, social and industrial. The modules are standardized and therefore they can be repurposed, reused and replaced as needed.
+
+The basic module is a hollow hexagonal prism of 2 meters in side length and 0.6 meters in height. It contains 3 tubes connecting its opposite sides with a electro-mechanical unit that controls the movement of capsules in the tubes.
 
 ```
-Description of blocks
+Diagram of a basic module
+```
+
+The module is connected to other modules tiling in a honecomb structure. The tubes of adjacent modules get connected to form long pipes for transportation of goods in the capsules.
+
+```
+Diagram of a residence with a few modules
+```
+
+```
+Description of a module
+Module inflatable
+Module cabin
+Cost of a building block should be referred to already in section Development roadmap
+Describe the variations of the module for private spaces, social spaces, industrial spaces
+```
+
+## Capsules
+
+```
+Simulation of logistics of capsules in a neighborhood with 1000 residents and all basic services plus some amenities
+```
+
+## Cover
+
+The entire city is covered with a structure made of bricks of rammed soil.
+
+```
+Diagram of a cover
+```
+
+The cover provides a first-level protection from radiation and bad weather. Second-level protection is the module inflatable and the third-level (emergency) protection is the module cabine.
+
+The air pressure and temperature in the cover are not sufficient for humans without extra protection but allow for short-time activities outside the modules
+
+Artificial light sources are attached to the bottom side of the cover to replace sunlight. People need sunlight psychologically.
+
+## Drones
+
+Maintenance drones are designed to be simple and cheap. They are most effective and efficient when swarming. They are controlled centrally.
+
+A single drone is configured to perform at least one of the following activities:
+ * collect soil
+ * ram soil into a brick
+ * move a brick of rammed soil
+ * move a module (together with other drones)
+
+```
+Simulation of drone swarming to build a roof
+Conclusion for how many drones and how much time is necessary to build housings for 1 thousand residents
+```
+
+## Control
+
+All infrastructure components are controlled centrally by AI. The control center manages the transactions in the service platform, optimizes the path of deliveries, mitigates risks of failures, builds new housings, repairs existing housings, conditions living spaces and assists the residents.
+
+```
 Simulation of evolution of city - moving neighborhoods
-Simulation of logistics in 
 ```
 
 ------------------------
