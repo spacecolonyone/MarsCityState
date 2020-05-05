@@ -186,10 +186,18 @@ An important part of the city design is the modular infrastructure consisting of
 
 There are modules made of metal that are laid on the ground and connected to each other. These modules give the floor of all spaces in the city - private, social and industrial. The modules are standardized and therefore they can be repurposed, reused and replaced as needed.
 
-The basic module is a hollow hexagonal prism of 2 meters in side length and 0.6 meters in height. It contains 3 tubes connecting its opposite sides with a electro-mechanical unit that controls the movement of capsules in the tubes.
+The basic module is a hollow hexagonal prism of 2 meters in side length and 0.6 meters in height. It has two layers.
+
+The lower layer is for transporation. It contains 3 tubes connecting its opposite sides with an electro-mechanical dispatcher unit that controls the movement of capsules in the tubes. The dispather unit will maintain the speed of the capsules in transit through the module, will pull the capsules that are sent to this module out of the transport tubes and will store them in the upper layer, and will put the capsules that are sent from this module into the transport tubes.
+
+The upper layer serves as a storage for resources and as a highly protected environment. The capsules that are stored in the upper layer of the module can be used by appliances placed on the module, or can be just stored for future use.
+
+The highly protected environment of the upper layer is also used by residents as a healthy place to sleep in, and as an emergency safe place. This layer can be equipped with instruments for health monitoring and treatment.
 
 ```
 Diagram of a basic module
+Lower layer with 3 tubes and dispatcher unit
+Upper layer with bed and compartments for storage of capsules, showing a man sleeping and a few capsules in store.
 ```
 
 The module is connected to other modules tiling in a honecomb structure. The tubes of adjacent modules get connected to form long pipes for transportation of goods in the capsules.
