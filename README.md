@@ -163,20 +163,37 @@ When the city passes **Milestone 1** the service platform will need to expand to
 
 ## Minimum set of services
 
-- air conditioning
+The minimum set of services cover the biological and physiological needs of the residents. The governor ensures there is sufficient supply for all residents. The governor regulates the services to ensure they are accessible, safe and guarantied.
+
+- shelter
+- breathable air
+- heating - electricity or air conditioning
 - water
-- heating
 - food
 - waste management
+- electricity - ensures the infrastructure is running and ensures connection to the control center
+- communication - ensures connection to the control center (AI) and the rest of the world
 
 ## Amenities
 
-- schools
-- shopping malls
-- theaters
-- restaurants
-- parks
+Higher level needs can also be covered through the same service platform. The governor will not necessarily enforce regulation on those.
+
+- security
+- education - schools
+- health - hospitals
+- entertainment - cinemas, theaters, restaurants
+- leisure - parks
 - travel
+- shopping - malls
+
+## Aspects of life - social, political, culture, ...
+
+By coveing the lower level needs of the residents, the service platform frees room for higher aspects of life to develop in a natural way. They will use their free time to socialize, for culture, for parenting, for hobbies, for business, etc.
+
+All aspects of life will still be well connected to those on the Earth. For example, with service providers of Internet on Mars that solve network latency by mirroring content locally, residents on Mars will be able to enjoy the same TV shows, sports events, etc. that their friends from Earth enjoy.
+
+Some aspects of life may, however, have more specific development on Mars. For example, with the high degree of automation and artificial intelligence of the service platform and the infrastructure, there may be no taxes for business activity (like VAT on the Earth) and the economy on Mars may become far more fluid than that on Earth.
+
 
 # Modular infrastruture
 
@@ -252,6 +269,8 @@ Conclusion for how many drones and how much time is necessary to build housings 
 ## Control
 
 All infrastructure components are controlled centrally by AI. The control center manages the transactions in the service platform, optimizes the path of deliveries, mitigates risks of failures, builds new housings, repairs existing housings, conditions living spaces and assists the residents.
+
+The control center also serves as the main interface in communication between the residents, the businesses, the governor, the service platform. For example, when a resident wants to report an incident they will talk to the AI.
 
 ```
 Simulation of evolution of city - moving neighborhoods
