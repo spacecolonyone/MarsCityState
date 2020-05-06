@@ -194,7 +194,6 @@ All aspects of life will still be well connected to those on the Earth. For exam
 
 Some aspects of life may, however, have more specific development on Mars. For example, with the high degree of automation and artificial intelligence of the service platform and the infrastructure, there may be no taxes for business activity (like VAT on the Earth) and the economy on Mars may become far more fluid than that on Earth.
 
-
 # Modular infrastruture
 
 An important part of the city design is the modular infrastructure consisting of connected modules as floor and logisticts, rammed soil cover, maintenance drones and the control center that are the physicals support of the service platform.
@@ -249,7 +248,18 @@ The cover provides a first-level protection from radiation and bad weather. Seco
 
 The air pressure and temperature in the cover are not sufficient for humans without extra protection but allow for short-time activities outside the modules
 
-Artificial light sources are attached to the bottom side of the cover to replace sunlight. People need sunlight psychologically.
+The habitat should be good from phychological point of view. Therefore it should provide sufficient space and light. Artificial light sources are attached to the bottom side of the cover to replace sunlight. The structure allows for a few hundred meters range of sight. Colored sculptures imitate trees in the distance.
+
+```
+Image of the interior of the cover
+It shows:
+ - the tiles of modules
+ - the columns of the covers such that you can see in the distance
+ - artificial light
+ - tree structures
+```
+
+The cover is made by drones.
 
 ## Drones
 
@@ -262,7 +272,7 @@ A single drone is configured to perform at least one of the following activities
  * move a module (together with other drones)
 
 ```
-Simulation of drone swarming to build a roof
+Simulation of drone swarming to build a cover
 Conclusion for how many drones and how much time is necessary to build housings for 1 thousand residents
 ```
 
