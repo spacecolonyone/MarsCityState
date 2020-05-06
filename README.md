@@ -1,5 +1,9 @@
 The following is a design of an envisioned city on Mars. It describes a pioneering large settlement in space - one that should be possible to build already in 21st century. Its design focuses on characteristics that will make it practical, vital and sustainable. As such, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space.
 
+```
+diagram of 4 characteristics, 3 players, 4 milestones and 3 phases
+```
+
 The design of the city is based on four key characteristics:
  * **Economic attractiveness** - while the Earth in 21st century is seeing the limit to its population and fierce competition over natural resources, the city on Mars will offer businesses healthy economic growth through access to **fast-growing population** and **untapped resources**
  * **Development roadmap** - the **identity of the city** will evolve around a sequence of **major milestones** in its development - building the first space elevator and the first industrial factory in space - attracting the right residents to support it
@@ -40,6 +44,9 @@ Calculate ROI for governor.
 # Development roadmap
 The design of the city follows a roadmap of four major milestones:
 
+```
+diagram of milestone - phase - milestore - phase - ...
+```
 
 The city will go through three phases with respect to its economy development:
 1. Science and tourism - The short-term phase in which the population is between 10 and 1 thousand. The city will develop unique opportunities for scientists and tourists to support its growth
@@ -51,7 +58,7 @@ The city will go through three phases with respect to its economy development:
 - three phases that fuel growth with unique attractiveness
 ```
 
-## 2030: City founded
+## 2030: City founded. Science and tourism phase
 The city is founded in around 2030 with the infrastructure and staff to support scientists and tourists
 
 ![milestone-0](https://user-images.githubusercontent.com/637315/80925239-c18bd900-8d96-11ea-809f-1862df0036ea.png)
@@ -70,7 +77,7 @@ The role of governor, citizens, service companies. The point of view of governor
 Governor founds the city with initial investment. Investment costs projections. ROI
 ```
 
-## 2050: First Space elevator
+## 2050: First Space elevator. Real-estate phase
 The city will build its first space elevator in around 2050.
 
 ![milestone-1](https://user-images.githubusercontent.com/637315/80925241-c2bd0600-8d96-11ea-8f41-4438bb606af3.png)
@@ -93,7 +100,7 @@ Certain people will find it cheaper to maintain their desired standard of life o
 Cost projections for citizens.
 ```
 
-## 2100: First industrial factory in space
+## 2100: First industrial factory in space. Industrial phase
 The city will build its first industrial factory in space in around 2100.
 
 ![milestone-2](https://user-images.githubusercontent.com/637315/80925235-bd5fbb80-8d96-11ea-87cb-a1a8ce36ce03.png)
@@ -166,12 +173,12 @@ When the city passes **Milestone 1** the service platform will need to expand to
 The minimum set of services cover the biological and physiological needs of the residents. The governor ensures there is sufficient supply for all residents. The governor regulates the services to ensure they are accessible, safe and guarantied.
 
 - shelter
-- breathable air
+- air - recycling of imported and locally produced air
+- food - storage of imported dried food; local fresh produce in vertical farms
+- water - storage of local water; recycling
 - heating - electricity or air conditioning
-- water
-- food
 - waste management
-- electricity - ensures the infrastructure is running and ensures connection to the control center
+- electricity - nuclear, solar, ... ensures the infrastructure is running and ensures connection to the control center
 - communication - ensures connection to the control center (AI) and the rest of the world
 
 ## Amenities
