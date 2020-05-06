@@ -4,7 +4,7 @@ The design of the city is based on four key characteristics:
  * **Economic attractiveness** - while the Earth in 21st century is seeing the limit to its population and fierce competition over natural resources, the city on Mars will offer businesses healthy economic growth through access to **fast-growing population** and **untapped resources**
  * **Development roadmap** - the **identity of the city** will evolve around a sequence of **major milestones** in its development - building the first space elevator and the first industrial factory in space - attracting the right residents to support it
  * **Service platform** - the city will provide a platform for services for the needs of its residents and businesses. It will make it easy for businesses to quickly start and **scale** their operations. It will also enforce **regulation** over all services to ensure they are safe to be consumed by the residents
- * **Modular infrastructure** - the infrastructure provides basis for the logistics in the city through an assembly of **standardized blocks**. The blocks are easy to replace when damaged and easy to relocate when the city needs to **adapt and evolve**
+ * **Modular infrastructure** - the infrastructure provides basis for the logistics in the city through an assembly of **standardized modules**. The blocks are easy to replace when damaged and easy to relocate when the city needs to **adapt and evolve**
 
 and the interaction of three key participating groups:
  * **Governor**
