@@ -41,6 +41,13 @@
     * GDP will start high
     * Conclusion: steady economic growth that will attract governor and businesses
 
+  * Return on investment for city founder
+    * Assumption: revenue from science and tourism projects
+    * Initial investment, fixed costs, variable costs
+    * Break-even point
+    * Return on investment in 100 years
+    * Conclusion: even a single billionaire can found the city selling shares will longer ROI
+
 * Development roadmap
 
   * 2030: City founded. Science and tourism phase
@@ -76,5 +83,33 @@
     * Aspects of life - social, political, culture, ...
 
 * Service platform
+
+  * Interactions (with diagram):
+    * Residents pay governor for housing and access to services and ammenities
+    * Governor gives housing and regulated services
+    * Businesses give services to residents
+    * Residents pay businesses for services
+    * Governor gives businesses service platform and infrastructure
+    * Businesses pay governor for infrastructure and access to suppliers
+
+  * Minimum set of services
+    * Shelter, air, food, water, heating, waste, electricity, Internet
+
+  * Amenities
+    * Security, education, health, entertainment, leisure, travel, shoppinp
+    * Examples for differences to Earth
+
+  * Features
+    * Infrastructure
+    * Regulation
+    * Marketplace
+
+  * Development in time
+    * Starts small in science and tourism phase - grown by governor. Features common infrastructure. Features regulated services
+    * Grows in real estate phase - grown by free market competition. Features marketplace.
+      * Governor - no need for other taxes. Receives payment in advance and as subscription => reduced financial risk.
+      * Businesses - no taxes on value add activities.
+      * Residents - bank loan is sufficient to get on Mars. Standard of living on Mars the same as on Earth
+    * Fully developed in industrial phase
 
 * Modular infrastructure
