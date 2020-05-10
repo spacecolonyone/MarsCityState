@@ -113,3 +113,31 @@
     * Fully developed in industrial phase
 
 * Modular infrastructure
+
+  * Features / summary
+    * Protection: Cover as first, inflatables as second, and modules as third level protection
+    * Logistics: Transport. Control with AI
+
+  * Cover and drones
+    * Description - made of rammed soil bricks. First level of protection from radiation and bad weather
+    * Diagram of exterior
+    * Image of interior - tiling, range of sight, artificial light, tree sculptures
+    * Drones
+      * Design - simple, cheap, swarming
+      * Tasks - collect soil, ram soil into bricks, move a brick, move a module with other drones
+      * Simulation of drone swarming to build a cover
+      * Conclusion of how many drones and time in needed to build for 1 thousand residents
+
+  * Modules and capsules
+    * Standardized. Integrated. Reusable. Mass-produced. Cheap to buy. Cheap to replace.
+    * Description and diagram of module - a hollow hexagonal prism of 2 meters in side length and 0.6 meters in height. Two layers.
+    * Lower layer - transportation. Tubes. Dispatcher unit.
+    * Upper layer - storage and bed, emergency safe place. Inflatable. Cabin with health monitoring and treatment.
+    * Tiling - hoheycomb structure
+    * Diagram of a residence with a few modules
+    * Variations for private space, social spaces, industrial space
+
+  * Control
+    * Main communication and interaction interface
+    * Aided by AI - transactions, repairs, conditioning
+    * Example: Simulation of evolution of city - moving neighborhoods
