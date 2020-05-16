@@ -24,7 +24,7 @@ The first city on Mars and its design will be shaped by the forces that lead hum
 The world has experienced exponential economic growth in the last decades with advances in technology and high standard of living. Despite the many threads to the economy (like financial crises, climate changes, depleting natural resources, social inequalities, etc.) businesses and consumers are used to this growth and are expecting it to continue. The econimic growth, as measured by world GDP per capita, is projected to continue to grow but any analyses on the future of economy describes the increased effort required to maintain this growth, partially due to the effects of over-population. The increasing population on Earth and its increasingly demanding way of living will burden the access to the limited sources of energy, water and food.
 
 Cost of living will increase in the following decades and will contribute to the slow down of the growth rate of world population. Projections show that by year 2100 the growth rate of human population will get back to that of year 1900.
-![absolute-increase-global-population](https://user-images.githubusercontent.com/637315/82129836-89d95400-97ce-11ea-96d3-80fc0f1be296.png)
+![absolute-increase-global-population](https://user-images.githubusercontent.com/637315/82129836-89d95400-97ce-11ea-96d3-80fc0f1be296.png | width=920)
 (Source: https://ourworldindata.org/world-population-growth)
 
 Since population growth is a key driver of economic growth, the limited growth of population will also limit the economic growth on Earth. The world economy will bear the characteristics of a saturated market with high competition for the same base of consumers resulting into limited profitability and limited growth potential for the businesses.
