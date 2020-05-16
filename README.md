@@ -15,6 +15,8 @@ and the interaction of three key participating groups:
  * **Residents**
  * **Service companies**
 
+<div style="page-break-after: always;"></div>
+
 # Economic attractiveness
 
 The first city on Mars and its design will be shaped by the forces that lead humans settle on the planet. This design assumes the major force to be economics and we will start its description by looking at the projections of the relevant drivers of world economy in the near future.
