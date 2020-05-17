@@ -53,6 +53,15 @@ We can conclude that there will be a great contrast in the following century bet
 
 ## Economic development of a city on Mars
 
+The design of the city proposed here will follow an interesting path of economic development. According to the three-sector model of economics the main focus of societies will shift from the primary sector (extraction of raw materials) through the secondary sector (manufacturing) to the tertiary sector (services). The model classifies intellectual activities and knowledge based activities in the quaternary sector as an extension to the model.
+
+The city on Mars will, however, follow a reversed path by starting almost entirely in the quaternary and tertiary sectors. Within the first few decades after its foundation its main livelihood and source of income will be from exporting science and tourism. Only after the first milestone of building the first space elevetor it will become sufficiently affordable for various businesses and individuals to self-fund their journey to Mars and the critical mass of residents and services will reach the point for the tertiary sector to dominate the economic activities. Later, after the second milestone of building the first industrial factory in space, the secondary sector will gain momentum as the city will be capable of producing a rich variety of goods. Finally, the city will build the needed industrial power to develop extraction sites sufficient to become net exporter of raw materials.
+
+The share of economic sectors in time will evolve in this way:
+![economy-sectors](https://user-images.githubusercontent.com/637315/82159640-5236de80-9898-11ea-8b17-e51e0e6d4dd6.png)
+
+The design of the city on Mars deliberately supports this path of economic evolution and the city founder will have the responsibility to maintain it because it will ensure that GDP per capita for the city will start reltively high and will remain high, which will be an important factor for attracting businesses and residents.
+
 ## Return on investment for the city founder
 
 ```
@@ -340,6 +349,7 @@ Simulation of evolution of city - moving neighborhoods
 * https://ourworldindata.org/world-population-growth - Data on world's population growth
 * https://en.wikipedia.org/wiki/Moore%27s_law - Information on Moore's law and empirical data on exponential growth of technology advancement
 * https://en.wikipedia.org/wiki/Asteroid_mining - Information on asteorid mining and distance from Mars to the asteroid belt
+* https://en.wikipedia.org/wiki/Three-sector_model - Description of the three-sector model in economics
 
 * https://cloud.anylogic.com/model/a53e8273-a981-48dc-9fe3-38dde2ee6ce2 - Simulations referred in this document
 * https://www.researchgate.net/publication/222382174_Population_Growth_in_the_World's_Largest_Cities - assumption for growth of 10% in second phase and 5% in third phase
