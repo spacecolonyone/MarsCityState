@@ -338,7 +338,8 @@ Simulation of evolution of city - moving neighborhoods
 * https://SpaceColonyOne.github.io/MarsCityState/ - Web location of this document
 * https://github.com/SpaceColonyOne/MarsCityState - Source of this document
 * https://ourworldindata.org/world-population-growth - Data on world's population growth
-* https://en.wikipedia.org/wiki/Moore%27s_law - Moore's law
+* https://en.wikipedia.org/wiki/Moore%27s_law - Information on Moore's law and empirical data on exponential growth of technology advancement
+* https://en.wikipedia.org/wiki/Asteroid_mining - Information on asteorid mining and distance from Mars to the asteroid belt
 
 * https://cloud.anylogic.com/model/a53e8273-a981-48dc-9fe3-38dde2ee6ce2 - Simulations referred in this document
 * https://www.researchgate.net/publication/222382174_Population_Growth_in_the_World's_Largest_Cities - assumption for growth of 10% in second phase and 5% in third phase
