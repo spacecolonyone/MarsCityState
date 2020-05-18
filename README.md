@@ -64,29 +64,32 @@ The design of the city on Mars deliberately supports this path of economic evolu
 
 ## Return on investment for the city founder
 
-```
-Section #1
-projections for World population growth 2000-2100
-projections for World GDP per capita
-note on population growth as key driver for economic growth
-note on competition in saturated markets
-note on utilization of natural resources (e.g. polution, fresh water) and how it affects economy and living standards
-projections for Mars City population growth
-```
+The city will be driven by three groups - the governor, residents and businesses. The city founder will possibly be the first governor to run the city. They will have a few responsibilities that we will describe further and among those there will be the responsibility to maintain the economical viability of the city. This will include building the city by the design and managing the different phases, most importantly the first phase "Science and tourism" which will require a lot of financial investment and entrepreneurial skills until the city gains momentum to transition into the next phase.
 
-![figure-roadmap](https://user-images.githubusercontent.com/637315/77237552-fa4e6500-6bd1-11ea-84c4-7a082a0c2048.png)
+The city founder will need to either provide or contract:
+ * Pipeline of science projects - for revenue
+ * Pipeline of tourists - for revenue
+ * The minimum services - shelter, air, water, food and waste, energy and heating, communication - through the service platform described later - for supporting the science and tourism activities
 
-```
-Section #2
-note on reversed economic development of the city - knowledge -> service -> manufacturing -> extraction - thus GDP will start high
-conclusion that Mars City will have steady economic growth that will attract governor and businesses
-```
+The following calculation presents the scenario where the city founder . It spreads all investments starting from a 10-year period before the city is founded. Capital and operating expenses are split in categories reseaarh and deveopment (R&D), production, transport, aintenance and operations with the following assumptions:
+ * Research and development activities start in 2020 (or 10 years before the planned date of city founding)
+ * The population starts with 10 residents in 2030 and grows to 1000 residents in 2050
+ * The city founder provides the six life support services - the set of minimum services in the service platform
+ * Yearly spending of 200 million USD per service per year for research and development
+ * Service equipment is produced on Earth with progressively increased capacity amounting to 120% of actual population in the city
+ * Cost of service equipment starts at 50 million USD per resident per service and is reduced by 10% per year from research and development output
+ * Weight of service equipment is 10 000 kg per resident and is transported to Mars at 500 USD per kg
+ * Yearly maintenance expenses of service equipment is 20% of its production cost
+ * Yearly operating expenses and supplies of service equipment is 100 000 USD per resident per service
+ * Scientists in city are 20% of population
+ * 3 active projects per scientist per year
+ * Yearly revenue of 25 million USD per active scientific project
+ * Tourists in city are 20% of population
+ * Revenue of one tourist year starts at 25 million USD in 2030 and falls by 20% year-by-year
 
-```
-Section #3
-Governor as founder of city, investor and administration.
-Calculate ROI for governor.
-```
+![cash-flow](https://user-images.githubusercontent.com/637315/82259422-36007380-9964-11ea-8ff7-f6e01d332912.png)
+
+This high-level calculations show that the city founder will reach positive cash flow around year 2045 and will break even 10 years later. Net expenses top at 4 billion USD per year which could be a manageable joint investment by a group of a dozen interested large enterprises that wish to take the first mover advantage in a new Mars economy.
 
 # Development roadmap
 The design of the city follows a roadmap of four major milestones:
