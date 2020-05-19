@@ -91,6 +91,8 @@ The following calculation presents the scenario where the city founder . It spre
 
 This high-level calculations show that the city founder will reach positive cash flow around year 2045 and will break even 10 years later. Net expenses top at 4 billion USD per year which could be a manageable joint investment by a group of a dozen interested large enterprises that wish to take the first mover advantage in a new Mars economy.
 
+<div style="page-break-after: always;"></div>
+
 # Development roadmap
 The design of the city will follow a roadmap of four major milestones that mark three distinctive periods of economic development:
 
@@ -123,6 +125,8 @@ The role of governor, citizens, service companies. The point of view of governor
 Governor founds the city with initial investment. Investment costs projections. ROI
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## 2050: First Space elevator. Real-estate phase
 The city will build its first space elevator in around 2050.
 
@@ -146,6 +150,8 @@ Certain people will find it cheaper to maintain their desired standard of life o
 Cost projections for citizens.
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## 2100: First industrial factory in space. Industrial phase
 The city will build its first industrial factory in space in around 2100.
 
@@ -166,10 +172,14 @@ At this point the city will have advantage over the Earth in building a large in
 The city will use its space elevator to build the complex at a lower cost for transportation and construction as compared to Earth competition. The complex will be robotized and controlled from Mars surface.
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## 2150: Population of 1 million
 The city will maintain average yearly growth of 4-5% to reach a population of 1 million by around 2150.
 
 ![milestone-3](https://user-images.githubusercontent.com/637315/80925238-bfc21580-8d96-11ea-9972-8bed55533ed6.png)
+
+<div style="page-break-after: always;"></div>
 
 # Service platform
 
