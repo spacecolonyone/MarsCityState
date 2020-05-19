@@ -115,27 +115,21 @@ The design of the city will follow a roadmap of four major milestones that mark 
 <div style="page-break-after: always;"></div>
 
 ## 2030: City founded. Science and tourism phase
-The city is founded in around 2030 with the infrastructure and staff to support scientists and tourists
+
+After 10 years of preparation the city is founded in around 2030 with the infrastructure and staff to support science projects and tourism. It will start as a small colony with 10 residents and gradually grow adding infrastructure, habitats and service buildings as more residents move in.
 
 ![milestone-0](https://user-images.githubusercontent.com/637315/80925239-c18bd900-8d96-11ea-809f-1862df0036ea.png)
 
-The city will gradually attract more scientists and tourists and re-invest the income in scaling the infrastructure and staff, with 8:2 ratio of staff to scientists/tourists, until it reaches population of 1 thousand
+The governor will play a critical role in this period. This organization will be responsible for balancing revenue generation, rate of immigration and city construction activities.
 
-```
-Science and tourism phase
-Years: from 2030 to 2050
-Population: from 10 to 1000
-Growth: 20%
-Attractiveness: paying scientists and tourists
+The governor organization will sell scientist and tourists seats in advance allowing sufficient time for building the city to accomodate them. Scientists will be limited to 20% of population. Tourists will be limited to another 20% of population. The remaining 60% of the population will be providing infrastructure maintenance and services to the scientists and tourists. In this period, the governor organization will carefully select these people such that they will settle permanently. It will look for young people, couples, with complementing skills.
 
-The role of governor, citizens, service companies. The point of view of governor, citizens, service companies
-
-Governor founds the city with initial investment. Investment costs projections. ROI
-```
+The income of the city will rely on the science projects and tourists. The city will re-invest the income in scaling the infrastructure and staff but will still need additional capital investments to reach population of 1 thousand. A portion of the investment will be used to build the first space elevator.
 
 <div style="page-break-after: always;"></div>
 
 ## 2050: First Space elevator. Real-estate phase
+
 The city will build its first space elevator in around 2050.
 
 ![milestone-1](https://user-images.githubusercontent.com/637315/80925241-c2bd0600-8d96-11ea-8f41-4438bb606af3.png)
@@ -368,6 +362,7 @@ Simulation of evolution of city - moving neighborhoods
 * https://en.wikipedia.org/wiki/Asteroid_mining - Information on asteorid mining and distance from Mars to the asteroid belt
 * https://en.wikipedia.org/wiki/Three-sector_model - Description of the three-sector model in economics
 * https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040075697.pdf - Comparison between the working cost estimating methodologies of the cost engineering functions in NASA Marshall Space Flight Center (MSFC) and ESA European Space Research and Technology Centre (ESTEC)
+* https://en.wikipedia.org/wiki/Space_elevator
 
 * https://cloud.anylogic.com/model/a53e8273-a981-48dc-9fe3-38dde2ee6ce2 - Simulations referred in this document
 * https://www.researchgate.net/publication/222382174_Population_Growth_in_the_World's_Largest_Cities - assumption for growth of 10% in second phase and 5% in third phase
