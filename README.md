@@ -66,8 +66,6 @@ The share of economic sectors in time will evolve in this way:
 
 The design of the city on Mars deliberately supports this path of economic evolution and the city founder will have the responsibility to maintain it because it will ensure that GDP per capita for the city will start reltively high and will remain high, which will be an important factor for attracting businesses and residents.
 
-<div style="page-break-after: always;"></div>
-
 ## Return on investment for the city founder
 
 The city will be driven by three groups - the governor, residents and businesses. The city founder will possibly be the first governor to run the city. They will have a few responsibilities that we will describe further and among those there will be the responsibility to maintain the economical viability of the city. This will include building the city by the design and managing the different phases, most importantly the first phase "Science and tourism" which will require a lot of financial investment and entrepreneurial skills until the city gains momentum to transition into the next phase.
@@ -111,8 +109,6 @@ The design of the city will follow a roadmap of four major milestones that mark 
  * First industrial factory milestone - The city will build an industrial zone in orbit using its access to space and the planet with the network of space elevators
  * Industrial phase - The period after the industrial factory in space becomes operational. In this period the population will grow to 1 million. The city will specialize in production exploiting the characteristics of space and will support its growth through exports
  * Population of 1 million milestone - The city will become a true city of human civilization with unique cultural, social, economic, political footprint
-
-<div style="page-break-after: always;"></div>
 
 ## 2030: City founded. Science and tourism phase
 
