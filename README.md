@@ -92,21 +92,17 @@ The following calculation presents the scenario where the city founder . It spre
 This high-level calculations show that the city founder will reach positive cash flow around year 2045 and will break even 10 years later. Net expenses top at 4 billion USD per year which could be a manageable joint investment by a group of a dozen interested large enterprises that wish to take the first mover advantage in a new Mars economy.
 
 # Development roadmap
-The design of the city follows a roadmap of four major milestones:
+The design of the city will follow a roadmap of four major milestones that mark three distinctive periods of economic development:
 
-```
-diagram of milestone - phase - milestore - phase - ...
-```
+![roadmap-phases-milestones](https://user-images.githubusercontent.com/637315/82374055-30b82d00-9a27-11ea-97f4-d09a86cb05e3.png)
 
-The city will go through three phases with respect to its economy development:
-1. Science and tourism - The short-term phase in which the population is between 10 and 1 thousand. The city will develop unique opportunities for scientists and tourists to support its growth
-2. Real-estate - The mid-term phase in which the polulation grows from 1 thousand to 100 thousand. The city will develop unique niche of standard of living to attract people and support its growth
-3. Industrial - The long-term phase in which the population will grow from 100 thousand to 1 million. The city will build the first industrial zone in space to support its growth through exports
-
-```
-- economics of the city - three roles: governor providing infrastructure and service platform, service companies providing services and the residents/citizens
-- three phases that fuel growth with unique attractiveness
-```
+ * City founded milestone - The city will be founded as a small colony with 10 residents
+ * Science and tourism phase - The period starting when the city is founded. In this period the population will grow to 1 thousand residents. The city will develop unique opportunities for scientists and tourists to support its growth
+ * First space elevator milestone - The city will build its first space elevator as a highway between the surface of the planet and outer space
+ * Real estate phase - The period after the space elevator is operational. In this period the polulation will grow to 100 thousand residents. The city will develop real estate and services market attracting people to its unique lifestyle
+ * First industrial factory milestone - The city will build an industrial zone in orbit using its access to space and the planet with the network of space elevators
+ * Industrial phase - The period after the industrial factory in space becomes operational. In this period the population will grow to 1 million. The city will specialize in production exploiting the characteristics of space and will support its growth through exports
+ * Population of 1 million milestone - The city will become a true city of human civilization with unique cultural, social, economic, political footprint
 
 ## 2030: City founded. Science and tourism phase
 The city is founded in around 2030 with the infrastructure and staff to support scientists and tourists
