@@ -259,6 +259,8 @@ All aspects of life will still be well connected to those on the Earth. For exam
 
 Some aspects of life may, however, have more specific development on Mars. For example, with the high degree of automation and artificial intelligence of the service platform and the infrastructure, there may be no taxes for business activity (like VAT on the Earth) and the economy on Mars may become far more fluid than that on Earth.
 
+<div style="page-break-after: always;"></div>
+
 # Modular infrastruture
 
 An important part of the city design is the modular infrastructure consisting of connected modules as floor and logisticts, rammed soil cover, maintenance drones and the control center that are the physicals support of the service platform.
@@ -351,19 +353,19 @@ The control center also serves as the main interface in communication between th
 Simulation of evolution of city - moving neighborhoods
 ```
 
-------------------------
+<div style="page-break-after: always;"></div>
 
 # References
 
-* https://SpaceColonyOne.github.io/MarsCityState/ - Web location of this document
-* https://github.com/SpaceColonyOne/MarsCityState - Source of this document
-* https://ourworldindata.org/world-population-growth - Data on world's population growth
-* https://en.wikipedia.org/wiki/Moore%27s_law - Information on Moore's law and empirical data on exponential growth of technology advancement
-* https://en.wikipedia.org/wiki/Asteroid_mining - Information on asteorid mining and distance from Mars to the asteroid belt
-* https://en.wikipedia.org/wiki/Three-sector_model - Description of the three-sector model in economics
-* https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040075697.pdf - Comparison between the working cost estimating methodologies of the cost engineering functions in NASA Marshall Space Flight Center (MSFC) and ESA European Space Research and Technology Centre (ESTEC)
-* https://en.wikipedia.org/wiki/Space_elevator
+ * https://SpaceColonyOne.github.io/MarsCityState/ - Web location of this document
+ * https://github.com/SpaceColonyOne/MarsCityState - Source of this document
+ * https://ourworldindata.org/world-population-growth - Data on world's population growth
+ * https://www.researchgate.net/publication/222382174_Population_Growth_in_the_World's_Largest_Cities - Data on expected population growth for cities
+ * https://en.wikipedia.org/wiki/Moore%27s_law - Information on Moore's law and empirical data on exponential growth of technology advancement
+ * https://en.wikipedia.org/wiki/Asteroid_mining - Information on asteorid mining and distance from Mars to the asteroid belt
+ * https://en.wikipedia.org/wiki/Three-sector_model - Description of the three-sector model in economics
+ * https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040075697.pdf - Comparison between the working cost estimating methodologies of the cost engineering functions in NASA Marshall Space Flight Center (MSFC) and ESA European Space Research and Technology Centre (ESTEC)
+ * https://en.wikipedia.org/wiki/Space_elevator
 
-* https://cloud.anylogic.com/model/a53e8273-a981-48dc-9fe3-38dde2ee6ce2 - Simulations referred in this document
-* https://www.researchgate.net/publication/222382174_Population_Growth_in_the_World's_Largest_Cities - assumption for growth of 10% in second phase and 5% in third phase
-* https://en.wikipedia.org/wiki/Earth_structure
+ * https://cloud.anylogic.com/model/a53e8273-a981-48dc-9fe3-38dde2ee6ce2 - Simulations referred in this document
+ * https://en.wikipedia.org/wiki/Earth_structure
