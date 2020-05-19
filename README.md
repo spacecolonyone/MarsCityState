@@ -31,6 +31,8 @@ Cost of living will increase in the following decades and will contribute to the
 
 Since population growth is a key driver of economic growth, the limited growth of population will also limit the economic growth on Earth. The world economy will bear the characteristics of a saturated market with high competition for the same base of consumers resulting into limited profitability and limited growth potential for the businesses.
 
+<div style="page-break-after: always;"></div>
+
 ## Natural resources and population growth on Mars
 
 While the economy on Earth will face over-population and saturated markets, the economy on Mars will have different challenges and opportunities. Mars is neither populated, nor developed. However, it has huge potential in land to populate, natural resources to extract and better access to Space and its resources. The major barriers to untapping this potential for population and natural resources can be removed with advances in technology, which history shows follow Moore's law. Therefore it is reasonable to assume that our abilities to expand our economy on Mars will grow exponentially, doubling every few years or decades.
@@ -51,6 +53,8 @@ In addition, the gravity of Mars is only about 38% of that of Earth and it is si
 
 We can conclude that there will be a great contrast in the following century between Earth and Mars considering population growth and access to natural resources. Population growth on Earth will slow down, while that on Mars will grow exponentially. Access to natural resources on Earth will slow down, while that on Mars will grow exponentially. This conclusion suggests Mars will at a given point in time become an interesting investment opportunity and earlier investors will gain advantage over laggers.
 
+<div style="page-break-after: always;"></div>
+
 ## Economic development of a city on Mars
 
 The design of the city proposed here will follow an interesting path of economic development. According to the three-sector model of economics the main focus of societies will shift from the primary sector (extraction of raw materials) through the secondary sector (manufacturing) to the tertiary sector (services). The model classifies intellectual activities and knowledge based activities in the quaternary sector as an extension to the model.
@@ -61,6 +65,8 @@ The share of economic sectors in time will evolve in this way:
 ![economy-sectors](https://user-images.githubusercontent.com/637315/82159640-5236de80-9898-11ea-8b17-e51e0e6d4dd6.png)
 
 The design of the city on Mars deliberately supports this path of economic evolution and the city founder will have the responsibility to maintain it because it will ensure that GDP per capita for the city will start reltively high and will remain high, which will be an important factor for attracting businesses and residents.
+
+<div style="page-break-after: always;"></div>
 
 ## Return on investment for the city founder
 
@@ -105,6 +111,8 @@ The design of the city will follow a roadmap of four major milestones that mark 
  * First industrial factory milestone - The city will build an industrial zone in orbit using its access to space and the planet with the network of space elevators
  * Industrial phase - The period after the industrial factory in space becomes operational. In this period the population will grow to 1 million. The city will specialize in production exploiting the characteristics of space and will support its growth through exports
  * Population of 1 million milestone - The city will become a true city of human civilization with unique cultural, social, economic, political footprint
+
+<div style="page-break-after: always;"></div>
 
 ## 2030: City founded. Science and tourism phase
 The city is founded in around 2030 with the infrastructure and staff to support scientists and tourists
