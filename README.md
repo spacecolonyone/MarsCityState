@@ -103,24 +103,24 @@ The design of the city will follow a roadmap of four major milestones that mark 
 ![roadmap-phases-milestones](https://user-images.githubusercontent.com/637315/82374055-30b82d00-9a27-11ea-97f4-d09a86cb05e3.png)
 
  * City founded milestone - The city will be founded as a small colony with 10 residents
- * Science and tourism phase - The period starting when the city is founded. In this period the population will grow to 1 thousand residents. The city will develop unique opportunities for scientists and tourists to support its growth
- * First space elevator milestone - The city will build its first space elevator as a highway between the surface of the planet and outer space
- * Real estate phase - The period after the space elevator is operational. In this period the polulation will grow to 100 thousand residents. The city will develop real estate and services market attracting people to its unique lifestyle
- * First industrial factory milestone - The city will build an industrial zone in orbit using its access to space and the planet with the network of space elevators
- * Industrial phase - The period after the industrial factory in space becomes operational. In this period the population will grow to 1 million. The city will specialize in production exploiting the characteristics of space and will support its growth through exports
+ * Science and tourism phase - The period following the foundation of the city. During this period the city will develop unique opportunities for scientists and tourists to support its growth. The population will grow to 1 thousand residents. 
+ * First space elevator milestone - The city will build its first space elevator as a highway connecting the surface of the planet and planet orbit
+ * Real estate phase - The period following the opening of the space elevator. During this period the city will develop real estate and services market attracting people to its unique lifestyle. The polulation will grow to 100 thousand residents.
+ * First industrial factory milestone - The city will build an industrial zone in orbit using its network of space elevators to access space and planet surface
+ * Industrial phase - The period following the opening of the industrial factory in space. In this period the city will specialize in manufaturing exploiting the characteristics of space and will support its growth through exports. The population will grow to 1 million.
  * Population of 1 million milestone - The city will become a true city of human civilization with unique cultural, social, economic, political footprint
 
 ## 2030: City founded. Science and tourism phase
 
-After 10 years of preparation the city is founded in around 2030 with the infrastructure and staff to support science projects and tourism. It will start as a small colony with 10 residents and gradually grow adding infrastructure, habitats and service buildings as more residents move in.
+After 10 years of preparation, the city will be founded in around 2030 with the infrastructure and staff to support science projects and tourism. It will start as a small colony with 10 residents and gradually grow adding infrastructure, habitats and service buildings as more residents move in.
 
 ![milestone-0](https://user-images.githubusercontent.com/637315/80925239-c18bd900-8d96-11ea-809f-1862df0036ea.png)
 
 The governor will play a critical role in this period. This organization will be responsible for balancing revenue generation, rate of immigration and city construction activities.
 
-The governor organization will sell scientist and tourists seats in advance allowing sufficient time for building the city to accomodate them. Scientists will be limited to 20% of population. Tourists will be limited to another 20% of population. The remaining 60% of the population will be providing infrastructure maintenance and services to the scientists and tourists. In this period, the governor organization will carefully select these people such that they will settle permanently. It will look for young people, couples, with complementing skills.
+The governor organization will sell seats for scientist and tourists in advance allowing sufficient time for building the city to accomodate them. Scientists will be limited to 20% of the total population. Tourists will be limited to another 20% of the total population. The remaining 60% of the population will be providing infrastructure maintenance and services to the scientists and tourists. In this period, the governor organization will carefully select these people such that they will settle permanently. It will look for young people, couples, with complementing skills.
 
-The income of the city will rely on the science projects and tourists. The city will re-invest the income in scaling the infrastructure and staff but will still need additional capital investments to reach population of 1 thousand. A portion of the investment will be used to build the first space elevator.
+The income of the city will rely on the science projects and tourists. The city will re-invest part of the income in scaling the infrastructure and staff but will still need additional capital investments to reach population of 1 thousand. A portion of the investment will be used to build the first space elevator.
 
 <div style="page-break-after: always;"></div>
 
@@ -130,7 +130,7 @@ The city will build its first space elevator in around 2050.
 
 ![milestone-1](https://user-images.githubusercontent.com/637315/80925241-c2bd0600-8d96-11ea-8f41-4438bb606af3.png)
 
-The elevator will be in its own right a "wonder of the world" with great economic and social impact. It will mark a turning point for the city by offering more affordable way for people to maintain their desired standard of living on Mars as compared to the Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists
+The elevator will be in its own right a "wonder of the world" with great economic and social impact. It will mark a turning point for the city by offering more affordable way for people to maintain their desired standard of living on Mars as compared to living on Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists
 
 ```
 Real-estate phase
