@@ -120,6 +120,8 @@ The governor will play a critical role in this period. This organization will be
 
 The governor organization will sell seats for scientist and tourists in advance allowing sufficient time for building the city to accomodate them. Scientists will be limited to 20% of the total population. Tourists will be limited to another 20% of the total population. The remaining 60% of the population will be providing infrastructure maintenance and services to the scientists and tourists. In this period, the governor organization will carefully select these people such that they will settle permanently. It will look for young people, couples, with complementing skills.
 
+The governor organization will also lay the foundations of the service platform that will ensure residents can meet their needs and businesses can easily start and grow. However, the city will be small as a market during this first period and the governor organization will contract the businesses needed for the basic needs of the residents - for shelter, air, food, water, heating, electricity, communication.
+
 The income of the city will rely on the science projects and tourists. The city will re-invest part of the income in scaling the infrastructure and staff but will still need additional capital investments to reach population of 1 thousand. A portion of the investment will be used to build the first space elevator.
 
 <div style="page-break-after: always;"></div>
@@ -130,23 +132,15 @@ The city will build its first space elevator in around 2050.
 
 ![milestone-1](https://user-images.githubusercontent.com/637315/80925241-c2bd0600-8d96-11ea-8f41-4438bb606af3.png)
 
-The elevator will be in its own right a "wonder of the world" with great economic and social impact. It will mark a turning point for the city by offering more affordable way for people to maintain their desired standard of living on Mars as compared to living on Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists
+The elevator will be in its own right a "wonder of the world" with great economic and social impact. It will mark a turning point for the city by offering more affordable way for people to maintain their desired standard of living on Mars as compared to living on Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists.
 
-```
-Real-estate phase
-Years: from 2050 to 2100
-Population: from 1K to 100K
-Population growth rate: 10%
-Attractiveness: Unique niche for standard of living for cost of living
+With the growing city and the technology of space elevator there will be more opportunities for people to make living on Mars. A certain profile of people on Earth - even if a minority on our home planet they will be sufficient in numbers - will be attracted to migrate to Mars. These will include entrepreneurs who will prefer the opportunities of Mars to the saturated markets of Earth, or family people who will prefer to raise their children on Mars as a then more viable alternative than on Earth.
 
-The role of governor, citizens, service companies. The point of view of governor, citizens, service companies
+As the costs of migrating to Mars lowers with technology advances such as the space elevator, there will be a point in time when the number of people who are able and willing to self-fund, possibly using bank loans, their migration to Mars will surpass the residents that are funded by the governor and businesses.
 
-Why attractive to investors and loaners?
+The growing population will grow the market and the opportunities for new businesses. The governor organization will use this period to open the service platfrom to many businesses. It will become easier for new businesses to start operating and to introduce new products and services. The residents will enjoy higher variety and quality with lower prices.
 
-Why attractive to new citizens?
-Certain people will find it cheaper to maintain their desired standard of life on Mars rather than on Earth because of over-population issues. They will be able to move in on a basic mortgage.
-Cost projections for citizens.
-```
+As in the previous period, the city will use a portion of its finances for the next milestone - building the first industrial factory in space. Building on the first space elevator, a network of space elevators will speed up and improve the logistics between the surface of Mars, its orbits as well as the Earth and asteriod belt. The city will have a clear advantage over Earth in building a large industrial complex in space. This complex will have lower cost for transportation and construction as compared to Eath competition. It will have high levels of automation with operations in space premises performed by robots and remotely controlled from Mars surface.
 
 <div style="page-break-after: always;"></div>
 
