@@ -140,29 +140,21 @@ As the costs of migrating to Mars lowers with technology advances such as the sp
 
 The growing population will grow the market and the opportunities for new businesses. The governor organization will use this period to open the service platfrom to many businesses. It will become easier for new businesses to start operating and to introduce new products and services. The residents will enjoy higher variety and quality with lower prices.
 
-As in the previous period, the city will use a portion of its finances for the next milestone - building the first industrial factory in space. Building on the first space elevator, a network of space elevators will speed up and improve the logistics between the surface of Mars, its orbits as well as the Earth and asteriod belt. The city will have a clear advantage over Earth in building a large industrial complex in space. This complex will have lower cost for transportation and construction as compared to Eath competition. It will have high levels of automation with operations in space premises performed by robots and remotely controlled from Mars surface.
+As in the previous period, the city will use a portion of its finances for the next milestone - building the first industrial factory in space.
 
 <div style="page-break-after: always;"></div>
 
 ## 2100: First industrial factory in space. Industrial phase
+
 The city will build its first industrial factory in space in around 2100.
+
+Building on the first space elevator, a network of space elevators will speed up and improve the logistics between the surface of Mars, its orbits as well as the Earth and asteriod belt. The city will have a clear advantage over Earth in building a large industrial complex in space. This complex will have lower cost for transportation and construction as compared to Eath competition. It will have high levels of automation with operations in space premises performed by robots and remotely controlled from Mars surface.
 
 ![milestone-2](https://user-images.githubusercontent.com/637315/80925235-bd5fbb80-8d96-11ea-87cb-a1a8ce36ce03.png)
 
-The factory will have strong competitive advantages over the industrial sites on the Earth in producing certain products by exploiting the vacuum of space, zero gravity, less risk of polution.
+The factory will have strong competitive advantages over the industrial sites on the Earth in producing certain products, supporting special technologies and developing certain economies. For example, it will have easier access to asteroid-mined resources, will be able to use technologies relying on zero-gravity or vacuum, will be less exposed to risks of polution, etc.
 
-```
-Industrial phase
-Years: from 2100 to 2150
-Population: from 100K to 1M
-Population growth rate: 5%
-Attractiveness: Prospering industrial zone
-
-The role of governor, citizens, service companies. The point of view of governor, citizens, service companies
-
-At this point the city will have advantage over the Earth in building a large industrial complex in space. This industrial complex will have unique possibilities for supporting special technologies and developing economies. For example, it will have easier access to asteroid-mined resources, will be able to use technologies relying on zero-gravity or vacuum, will be less exposed to risks of polution, etc.
-The city will use its space elevator to build the complex at a lower cost for transportation and construction as compared to Earth competition. The complex will be robotized and controlled from Mars surface.
-```
+The industrial factory in space will define the identity of the city for many decades. It will direct its economy by developing its specialization in exported goods and services. As importantly, it will support the growth of the population of the city to a size that becomes recongizable and significant in our civilization.
 
 <div style="page-break-after: always;"></div>
 
