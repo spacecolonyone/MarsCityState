@@ -172,52 +172,32 @@ All aspects of life will still be well connected to those on Earth. For example,
 
 Some aspects of life may, however, will have more specific development on Mars. For example, with the high degree of automation and artificial intelligence of the service platform and the infrastructure, there may be no taxes for business activity (like VAT on Earth) and the economy on Mars may become far more fluid than that on Earth.
 
-The city on Mars will become a unique extension to human civilization.
+The city on Mars will become a unique extension to human civilization. It will participate in the "global" (now interplanetary) system but will build its own life style and add to diversity of human civilization.
 
 <div style="page-break-after: always;"></div>
 
 # Service platform
 
-The city growth is driven by the interaction of three groups:
+The city growth and the development path described is driven by the interaction of three groups - the governor, the businesses and the residents.
 
-```
-diagram of Governor, Service companies, Residents
-- life support - with minimum set of services
-- politics, culture, economy, ... - participates in the "global" (now interplanetary) system but will quickly build own style and add to diversity of human civilization. Large set of services. Good standard of living. It will become a great place to live in
-```
-
-A government or private entity will found the city. People will then move into the city to live and work in. Service companies will also move into the city to continue developing it.
-
-Diagram:
  - Citizens pays Governor for housing. Governor gives regulation of services.
- - Service companies give services to citizens. Service companies receive subscription fees from citizens.
- - Service companies give tax to governor. Governor gives service platform and access to citizens.
+ - Businesses give services to citizens. Service companies receive subscription fees from residents.
+ - Businesses give tax to governor. Governor gives service platform and access to residents.
 
+
+The platform of services is a key component of the city design.
 The governer of the city will act as a platform for the service companies to serve people. The governor will maintain the infrastructure and regulate the service companies to make sure they can ensure their services and not risk lives.
 
  - Governor - the governor provides the infrastructure and a service platform for the services
- - Service companies - service companies provide paid services to city residents
+ - Busnesses - service companies provide paid services to city residents
  - Residents - the residents pay tax to the governor and consume the services from service companies
 
-The platform of services is a key component of the city design.
+## Features
 
-The service platform will start small with the foundation of the city and will grow with it. It will also influence the three milestones.
+- Infrastructure
+- Regulation
+- Marketplace
 
-```
-Diagram with the raodmap of the service platform along the milestones
- - the diagram shows when the three key characteristics develop
-```
-
-When the city is founded, the governer will be hiring the companies and staff accomodating the scientists and tourists. It will also hire service companies to provide the minimal set of services to support life in the city.
-
-Already at this point the governor will provide the **common infrastructure** to support delivery of those services. The governor will also **regulate the sevices** to ensure residents receive adequate life support and that relevant risks with disruption and health are mitigated. The service platform will have developed two of its three key characterstics but will still be small and funded by the governor.
-
-When the city passes **Milestone 1** the service platform will need to expand to support more than 1 thousand residents. It will add its third key characteristic - a marketplace for services. The platform will continue providing the common infrastructure and regulation over services and will now also be driven by competition based on the free market forces of supply and demand. At this point it will be common for more than one service company to provide the same or similar services, since they are now attracted by the market and not hired by the governor.
-
-```
- - value exchange
- - finance of each role
-```
 
 ## Minimum set of services
 
@@ -245,6 +225,21 @@ Higher level needs can also be covered through the same service platform. The go
 - shopping - malls
 
 <div style="page-break-after: always;"></div>
+
+## Development in time
+
+The service platform will start small with the foundation of the city and will grow with it. It will also influence the three milestones.
+
+```
+Diagram with the raodmap of the service platform along the milestones
+ - the diagram shows when the three key characteristics develop
+```
+
+When the city is founded, the governer will be hiring the companies and staff accomodating the scientists and tourists. It will also hire service companies to provide the minimal set of services to support life in the city.
+
+Already at this point the governor will provide the **common infrastructure** to support delivery of those services. The governor will also **regulate the sevices** to ensure residents receive adequate life support and that relevant risks with disruption and health are mitigated. The service platform will have developed two of its three key characterstics but will still be small and funded by the governor.
+
+When the city passes **Milestone 1** the service platform will need to expand to support more than 1 thousand residents. It will add its third key characteristic - a marketplace for services. The platform will continue providing the common infrastructure and regulation over services and will now also be driven by competition based on the free market forces of supply and demand. At this point it will be common for more than one service company to provide the same or similar services, since they are now attracted by the market and not hired by the governor.
 
 # Modular infrastruture
 
