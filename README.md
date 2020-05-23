@@ -159,9 +159,20 @@ The industrial factory in space will define the identity of the city for many de
 <div style="page-break-after: always;"></div>
 
 ## 2150: Population of 1 million
-The city will maintain average yearly growth of 4-5% to reach a population of 1 million by around 2150.
+
+After building its first industrial factory in space in around 2100, the city will maintain average yearly growth of 4-5% to reach a population of 1 million by around 2150.
 
 ![milestone-3](https://user-images.githubusercontent.com/637315/80925238-bfc21580-8d96-11ea-9972-8bed55533ed6.png)
+
+The city will be fully developed and self sustaining, although a partner to Earth. The service platform will have a wealth of active businesses and new businesses will start on Mars. The city will be still attractive for economic growth but will no longer be dependent on entrepreneurs from Earth as local businesses will lead its growth.
+
+By covering the lower level needs of the residents, the service platform will free room for higher aspects of life to develop in a natural way. The people will use their free time for socializing, for parenting, for hobbies, for culture, for business, etc.
+
+All aspects of life will still be well connected to those on Earth. For example, with service providers of Internet on Mars that solve network latency by mirroring content locally, residents on Mars will be able to enjoy the same TV shows, sports events, etc. that their friends from Earth enjoy.
+
+Some aspects of life may, however, will have more specific development on Mars. For example, with the high degree of automation and artificial intelligence of the service platform and the infrastructure, there may be no taxes for business activity (like VAT on Earth) and the economy on Mars may become far more fluid than that on Earth.
+
+The city on Mars will become a unique extension to human civilization.
 
 <div style="page-break-after: always;"></div>
 
@@ -232,14 +243,6 @@ Higher level needs can also be covered through the same service platform. The go
 - leisure - parks
 - travel
 - shopping - malls
-
-## Aspects of life - social, political, culture, ...
-
-By coveing the lower level needs of the residents, the service platform frees room for higher aspects of life to develop in a natural way. They will use their free time to socialize, for culture, for parenting, for hobbies, for business, etc.
-
-All aspects of life will still be well connected to those on the Earth. For example, with service providers of Internet on Mars that solve network latency by mirroring content locally, residents on Mars will be able to enjoy the same TV shows, sports events, etc. that their friends from Earth enjoy.
-
-Some aspects of life may, however, have more specific development on Mars. For example, with the high degree of automation and artificial intelligence of the service platform and the infrastructure, there may be no taxes for business activity (like VAT on the Earth) and the economy on Mars may become far more fluid than that on Earth.
 
 <div style="page-break-after: always;"></div>
 
