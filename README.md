@@ -188,13 +188,6 @@ The governor organization regulates the services and provides city residents wit
 
 All needs of the residents are met by the services the businesses provide, for which the residents pay the businesses.
 
-## Features
-
-- Infrastructure
-- Regulation
-- Marketplace
-
-
 ## Minimum set of services
 
 The minimum set of services cover the biological and physiological needs of the residents. The governor ensures there is sufficient supply for all residents. The governor regulates the services to ensure they are accessible, safe and guarantied.
@@ -222,7 +215,11 @@ Higher level needs can also be covered through the same service platform. The go
 
 <div style="page-break-after: always;"></div>
 
-## Development in time
+## Platform features
+
+- Infrastructure
+- Regulation
+- Marketplace
 
 The service platform will start small with the foundation of the city and will grow with it. It will also influence the three milestones.
 
