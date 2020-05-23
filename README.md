@@ -180,17 +180,13 @@ The city on Mars will become a unique extension to human civilization. It will p
 
 The city growth and the development path described is driven by the interaction of three groups - the governor, the businesses and the residents.
 
- - Citizens pays Governor for housing. Governor gives regulation of services.
- - Businesses give services to citizens. Service companies receive subscription fees from residents.
- - Businesses give tax to governor. Governor gives service platform and access to residents.
+![interactions](https://user-images.githubusercontent.com/637315/82742061-d9d19100-9d61-11ea-8c42-51047d462652.png)
 
+The governor organization provides businesses with a platform for services and the infrastructure to access their consumers and suppliers. In return the businesses pay for use of the platform and infrastructure. The governor will maintain the infrastructure to ensure the bussinesses and people can exchange goods and services.
 
-The platform of services is a key component of the city design.
-The governer of the city will act as a platform for the service companies to serve people. The governor will maintain the infrastructure and regulate the service companies to make sure they can ensure their services and not risk lives.
+The governor organization regulates the services and provides city residents with secure services as well as housing. In return the residents pay for the housing they rent. The rent includes access to the services, other amenities and the capacity of the governor organization to ensure the services are available and do not put lives at risk, through regulation.
 
- - Governor - the governor provides the infrastructure and a service platform for the services
- - Busnesses - service companies provide paid services to city residents
- - Residents - the residents pay tax to the governor and consume the services from service companies
+All needs of the residents are met by the services the businesses provide, for which the residents pay the businesses.
 
 ## Features
 
