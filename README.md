@@ -190,15 +190,24 @@ All needs of the residents are met by the services the businesses provide, for w
 
 ## Minimum set of services
 
-The minimum set of services cover the biological and physiological needs of the residents. The governor ensures there is sufficient supply for all residents. The governor regulates the services to ensure they are accessible, safe and guarantied.
+The primary purpose of the service platform is to meet the biological and physiological needs of the residents. The governor ensures a minimum set of services on the platform that provide sufficient supply for all residents. The governor regulates the services to ensure they are accessible, safe to consume and with guarantied availability.
 
-- shelter
-- air - recycling of imported and locally produced air
-- food - storage of imported dried food; local fresh produce in vertical farms
-- water - storage of local water; recycling
+In the beginnning, the governor will contract the service providers for th minimum set of services. Later on, as the city grows and becomes more attractive to new businesses, the governor will ensure there is sufficient supply for the minimum set of services only by maintaininig the service platform and will only rarely directly contract service providers.
+
+The design of the city sets the role of the service platform as a key support for the interaction among the governor, residents and businesses to achieve the milestones and grow the city. The design is not bound to any specific implementation of the different services. Instead it is open to accomodate the innovation businesses can bring to solve the challenges in living on Mars.
+
+We will only look at examples for possible implementations of the different services in the minimum set:
+
+ * Shelter - Basic protection from the harsh environment on Mars, from radiation and bad weather, will be provided by the infrastructure, part of the service platform. A cover made of rammed soil at least one meter thick will form a cave that provides sufficient space for living and protection from the natural envrionment on Mars. The cover will block the radiation from the Sun and space. The cave will be intentionally larger than the room needed for the residents and will maintain better environment in terms of temperature and air pressure although not sufficient for living without additional protection. The infrastructure of the service platform will include inflatable habitat as a second level of protection. The habitat will maintain fresh air and constant room temperature. For the cases of emergencies the infrastructure will also offer light protective suits and emergency spaces to hide. These three levels of proctection will be constantly monitored and maintained in automated way. We will look in more detail into it in the next section.
+
+ * Air - Breathable air will be constantly recycled from imported and locally produced air. Service providers will use a variety of technologies to produce and recycle air and will be able to choose the appropriate mix to optimize financial returns. For example, they can import oxygen from Earth, extract it from the water reserves of the city or recycle the used air. They will be able to combine air suuply with other services, such as air conditioning and heating. Regulations by the governor will include provisions for the quality of air, capacity, redundancies and emergency procedures.
+
+ * Water - Drinkable water will similarly be constantly recycled from imported and locally produced water. Again, service providers will use a variety of technologies to produce and recycle water, optimizing their financial returns within the constraints of regulation and customer satisfaction. Since water is very heavy and costly to import from the Earth, service providers will use in-situ resources while the city and demand is small and may later supplement with asteroid mining if local extraction cannot keep up with the growth rate of demand. Service providers will also be able to combine water supply with other services such as related to air and energy.
+
+ * Food and waste management - storage of imported dried food; local fresh produce in vertical farms
+
 - heating - electricity or air conditioning
-- waste management
-- electricity - nuclear, solar, ... ensures the infrastructure is running and ensures connection to the control center
+- Electricity - nuclear, solar, ... ensures the infrastructure is running and ensures connection to the control center
 - communication - ensures connection to the control center (AI) and the rest of the world
 
 ## Amenities
@@ -233,6 +242,8 @@ When the city is founded, the governer will be hiring the companies and staff ac
 Already at this point the governor will provide the **common infrastructure** to support delivery of those services. The governor will also **regulate the sevices** to ensure residents receive adequate life support and that relevant risks with disruption and health are mitigated. The service platform will have developed two of its three key characterstics but will still be small and funded by the governor.
 
 When the city passes **Milestone 1** the service platform will need to expand to support more than 1 thousand residents. It will add its third key characteristic - a marketplace for services. The platform will continue providing the common infrastructure and regulation over services and will now also be driven by competition based on the free market forces of supply and demand. At this point it will be common for more than one service company to provide the same or similar services, since they are now attracted by the market and not hired by the governor.
+
+<div style="page-break-after: always;"></div>
 
 # Modular infrastruture
 
