@@ -212,11 +212,16 @@ We will only look at examples for possible implementations of the different serv
 
 ## Amenities
 
-Higher level needs can also be covered through the same service platform. The governor will not necessarily enforce regulation on those.
+The secondary purpose of the service platform is to meet the higher level needs of the residents. The governor will not necessarily enforce strict regulations on these since peoples lives do not directly depend on them, as is the case with the minimus set of services. Nevertheless, the governor may contract service providers for under-supplied services to maintain higher life style of the residents and overall attractiveness of the city.
 
-- security
-- education - schools
-- health - hospitals
+Some examples of services that will use the same service platform are:
+
+ * Security - as the city grows there will be growing need for keeping the peace and resolving conflicts. Because the city will be equipped with highly monitored infrastructure that is since day one capable of and responsible for tracking people with the purpose of protecting them in case of emergencies, police and bodyguard services will be collaborating with the governor organization and the infrastructure.
+
+ * Health - similarly, the health of the residents will be a concern of the governor and there will be basic but well-integrated health monitoring capabilities in the infrastructure of the city. Additional services will be further supplied by independent service providers possibly with close collaboration with the infrastructure of the city. They can start with individual doctors and grow into hospitals as the city grows.
+
+ * Education - the needs for education will be probably in the beginning rely on connection to Earth. Virtual classrooms, individual practices, coaches - these can all be done on line even considering the latency between Mars and Earth. As the needs grow and local education facilities become viable they will appear in the service platform. The city will be founded on exporting science related to Space research and it will be just a matter of time until education in more spheres of knowledge will be exported too.
+
 - entertainment - cinemas, theaters, restaurants
 - leisure - parks
 - travel
