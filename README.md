@@ -222,31 +222,35 @@ Some examples of services that will use the same service platform are:
 
  * Education - the needs for education will be probably in the beginning rely on connection to Earth. Virtual classrooms, individual practices, coaches - these can all be done on line even considering the latency between Mars and Earth. As the needs grow and local education facilities become viable they will appear in the service platform. The city will be founded on exporting science related to Space research and it will be just a matter of time until education in more spheres of knowledge will be exported too.
 
-- entertainment - cinemas, theaters, restaurants
-- leisure - parks
-- travel
-- shopping - malls
+ * Entertainment - the need for entertainment and scoializing will a variety of services - cinemas, theaters, restaurants, cafes, pubs. 
+
+ * And many more like sports, leisure, travel, shopping, etc.
+
+All the services will be supported by the service platform and will in return support the city with amenities and, in time, unique features that will form the life style of the residents of the Mars city and its unique culture.
 
 <div style="page-break-after: always;"></div>
 
-## Platform features
+## Service platform features
 
-- Infrastructure
-- Regulation
-- Marketplace
+The service platform will be instrumental to the development of the city and its design will need to stay focused on a few simple concepts that will allow it to evolve together with the city and at the same time stay reliable. These three concepts and their high level design are:
+
+- Modular infrastructure - The purpose of the infrastructure will be to connect service providers to service consumers. The entire city infrastructure will be composed of standardized modular building blocks that can transport goods from the service providers to service consumers. They shall also be easy to add, maintain and recycle. The building blocks will be connected and have common monitoring and control aided by artificial intelligence and robots. In the most simple implemenations the individual blocks will be controlled by a central control center but as the technology advances they will be performing basic procedures in autonomous way. We will look into the design of the infrastructure in the next section
+
+- Regulation for services - Some services will be essential to life and other services will be highly valued by residents or businesses. For those critical services the governor will impose regulation so that the entire community can rely on their availability and quality. The regulation will be in the form of rules, service providers must comply to, and will be coded into the infrastructure, meaning that the monitoring and control capabilities of the infrastructure will extend to tracking the availability and quality of the critical services. The governor will have the power to enforce the regulation by blocking non-compliant service providers. The governor will also be monitoring the risks of future non-compliance and mitigate the risks by, for example, contracting competitor service providers.
+
+- Marketplace for services - The platform will be open to businesses to provide various services to the residents and to other businesses. The marketplace will be an open IT system serving as an interface between service providers and residents. It will build on top of the automation, monitoring and control of the modular infrastructure, and on top of the visibility to the governor for regulation purposes to provide a network of consumers and suppliers. It will offer the possibility to make purchases and but also build and run entire supply chains. It shall also be open for extensions so that interested businesses can specialize in extending it with services aimed at helping with interactions on the marketplace.
 
 The service platform will start small with the foundation of the city and will grow with it. It will also influence the three milestones.
 
-```
-Diagram with the raodmap of the service platform along the milestones
- - the diagram shows when the three key characteristics develop
-```
+![roadmap-service-platform](https://user-images.githubusercontent.com/637315/82843011-5ab89600-9ee4-11ea-9960-d2c121bee172.png)
 
-When the city is founded, the governer will be hiring the companies and staff accomodating the scientists and tourists. It will also hire service companies to provide the minimal set of services to support life in the city.
+When the city is founded and enters its **Science and tourism phase**, the governer will be hiring the companies and staff accomodating the scientists and tourists. It will also hire service companies to provide the minimal set of services to support life in the city. As the economy in this phase is dependent of the capability of the governor to attract science and tourist projects, the number of operating services will be small, they will provide low variety of services and most of them, if not all, will be considered essential so the governor will be contracting and regulating them.
 
-Already at this point the governor will provide the **common infrastructure** to support delivery of those services. The governor will also **regulate the sevices** to ensure residents receive adequate life support and that relevant risks with disruption and health are mitigated. The service platform will have developed two of its three key characterstics but will still be small and funded by the governor.
+Already at this point the governor will provide the common **modular infrastructure** to support delivery of the services. The governor will also **regulate the sevices** to ensure residents receive adequate life support and that relevant risks with disruption and health are mitigated. The service platform will have developed two of its three key characterstics but will still be small and funded by the governor.
 
-When the city passes **Milestone 1** the service platform will need to expand to support more than 1 thousand residents. It will add its third key characteristic - a marketplace for services. The platform will continue providing the common infrastructure and regulation over services and will now also be driven by competition based on the free market forces of supply and demand. At this point it will be common for more than one service company to provide the same or similar services, since they are now attracted by the market and not hired by the governor.
+After the city passes the **First space elevator milestone** and enters its **Real-estate phase** the service platform will need to expand to support more than a thousand residents. It will add its third key characteristic - the **marketplace for services**. The platform will continue providing the common infrastructure and regulation over services and will now also be driven by competition based on the free market forces of supply and demand. At this point it will be common for more than one service company to provide the same or similar services, since they are now attracted by the market and not hired by the governor.
+
+After the city passes the **First industrial factory milestone** and enters its **Industrial phase** the service platform will need to be prepared for hundreds of thousands of residents. The expanded economy will allow for high variety of services. The service platform will additionally boost variety and innovation by opening the marketplace and the underlying infrastructure for extensions by businesses. As a result, the overall level of uniformity of the infrastructure will be lower because some residents will be using extensions that others are not using, but as long as extensions do not compromize the compatibility of the blocks for the basic functions the businesses will be able to add a lot to the evolution of the infrastructure and increase the speed of development of the city. 
 
 <div style="page-break-after: always;"></div>
 
