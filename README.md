@@ -262,13 +262,13 @@ Finally, we will look into the modular infrastructure - the physical support of 
 
 The entire city is covered with a structure made of bricks of rammed soil. The cover provides space for the residents to live in and a first-level protection from radiation and bad weather. There are also the second-level protection by the module inflatables and the third-level (emergency) protection by the module cabine we will describe next.
 
-Experiments with Mars soil simulant suggest that the abundant soil of Mars may be used to create strong bricks with little additives if any at all. The weaker gravity of Mars will allow the structures made of rammed soil to be erected taller than those on Earth. Using this material for building will not require expenses for transporting from Earth making it possible to build large structures at lower cost.
+Experiments with Mars soil simulant suggest that the abundant soil of Mars may be used to create strong bricks with little additives if any at all. The weaker gravity of Mars will allow the structures made of rammed soil to be erected taller than equivalent structures made of rammed soil on Earth. Using this material for building will not require expenses for transporting from Earth making it possible to build large structures at lower cost.
 
 Our design will use honeycomb tiling structure with hexagons with diagonal of 4 meters, where every hexagon borders with exactly 3 columns. The columns will be 1 meter in diameter and 6 meters tall. The columns will support 60 degree roofs that top 12 meters above ground.
 
 ![cover-structure](https://user-images.githubusercontent.com/637315/82950740-84d68a80-9fae-11ea-9f32-c436c9defd59.png)
 
-The cover will provide isolation in terms of air pressure and temperature. It will be possible to maintain . Although it will not be sufficient for humans without extra protection it will allow for lighter modules and even short activities outside the modules.
+The cover will provide isolation in terms of air pressure and temperature. It will be possible to maintain . Although it will not be sufficient for humans without extra protection it will allow for the modules inside the cover to be lighter and more flexible and it will allow residents freedom for short activities outside the modules.
 
 The habitat should be good from phychological point of view, too. Therefore it should provide sufficient space and light. Artificial light sources will be attached to the bottom side of the cover to substitute sunlight. The structure will allow for a range of sight of a few hundred meters. Colored sculptures will imitate trees in the distance.
 
