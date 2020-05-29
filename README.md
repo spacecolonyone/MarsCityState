@@ -270,6 +270,11 @@ Our design will use honeycomb tiling structure with hexagons with diagonal of 4 
 
 The cover will provide isolation in terms of air pressure and temperature. It will be possible to maintain . Although it will not be sufficient for humans without extra protection it will allow for the modules inside the cover to be lighter and more flexible and it will allow residents freedom for short activities outside the modules.
 
+```
+Calculate the size of area for the cover for 1000 residents - 
+Image of the exterior of cover for 1000 residents
+```
+
 The habitat should be good from phychological point of view, too. Therefore it should provide sufficient space and light. Artificial light sources will be attached to the bottom side of the cover to substitute sunlight. The structure will allow for a range of sight of a few hundred meters. Colored sculptures will imitate trees in the distance.
 
 ```
@@ -283,22 +288,27 @@ It shows:
 
 ## Drones
 
-The cover is constructed and maintained by automated drones. The drones also connect the modules in the cover. These maintenance drones are designed to be simple and cheap. They are controlled centrally by the control center and are most effective when swarming.
+The cover is constructed and maintained by automated drones. The drones also lay the modules inside the cover. These maintenance drones will be designed to be simple and cheap. They will be controlled centrally by the control center and will be most effective when swarming in large numbers over a task.
 
 A single drone is configured to perform one or more of the following tasks:
 
- * Collect soil
+ * Collect soil - The drone will be able to dig into the Mars surface, extract small chunks of soil and store them in an in-built container. The drone will operate like an ant, rather than like a bulldozer, meaning that it will be equipped with small rippers - claw-like devices - and will be able to dig soil in small chunks to collect a target amount of soil rather than collect a large quantity of soil at once
 
- * Ram soil into a brick
+ * Ram soil into a brick - The drone will be then able to press the collected soil in its in-built container into a brick. It will be equipped with the mechanism needed to mix the soil with necessary additives and exercise the necessary pressure.
 
- * Move a brick of rammed soil
+ * Move a brick of rammed soil - The drone will be able to move a brick - either a brick it produced or a brick it collected - to the destination pointed by the control center. It will be equipped with communication device to connect to the control center. It will also be equipped with six or eight legs to be able to move itself - together with the brick it carries - on the surface of Mars as well as climb on lain bricks. When it needs to climb on top of a tall structure, for example to lay a new brick or to collect a previously lain brick - it will swarm with other drones to first build a ramp of bricks to make path to the target position.
 
- * Move a module (together with other drones)
+ * Move a module (together with other drones) - The drone will be able to also move larger objects - obstacles, debris, and very importantly the modules we will describe later. Because those objects may be larger than a single drone, the control center will co-ordinate a few drones to work together and move the object as a group.
+
+In addition, the drone will be able to perform supporting tasks, such as going to a re-charging or a cleaning station.
+
+The following sequence shows a simulation of drones swarming to build the cover structure:
 
 ```
 Simulation of drone swarming to build a cover
-Conclusion for how many drones and how much time is necessary to build housings for 1 thousand residents
 ```
+
+The design of the drones implies that they will compensate the fact that they are not individually strong with working in groups and consuming more time to build and maintain things. If we consider the cover structure as described and scaled to support 1000 residents, which will be sufficient for the entire first phase, it will require 90 million bricks. We will assume 1000 drones, one per resident, and average time to build a single brick of 10 minutes and average time to move and lay a single brick of 10 minutes. The time required to build the cover structure will be 3.5 years. Since the first phase is projected to 20 years, until 2050, it will be possible to build the cover with these 1000 drones, leaving sufficient time for defects, recharging and other tasks.
 
 ## Modules
 
