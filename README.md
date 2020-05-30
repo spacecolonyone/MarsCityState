@@ -342,13 +342,15 @@ Diagram of a residence with a few modules
 
 ## Control
 
-All infrastructure components are controlled centrally by AI. The control center manages the transactions in the service platform, optimizes the path of deliveries, mitigates risks of failures, builds new housings, repairs existing housings, conditions living spaces and assists the residents.
+All infrastructure components are controlled centrally, heavily aided by IT systems and artificial intelligence. The control center manages the transactions in the service platform, optimizes the path of deliveries, mitigates risks of failures, navigates the drones to build new housings and repair existing housings, conditions living spaces and assists the residents.
 
 ```
 Simulation of logistics of capsules in a neighborhood with 1000 residents and all basic services plus some amenities
 ```
 
 The control center also serves as the main interface in communication between the residents, the businesses, the governor, the service platform. For example, when a resident wants to report an incident they will talk to the AI.
+
+This diagram demonstrates the power and flexibility of the infrastructure in the evolution of the city. All components of the infrastructure are managed by the control center and work together to move entire neighborhoods from locations of declining attractiveness to locations with better potential. The city will be able to get closer to newly discovered deposits of natural resources, move away from locations near depleted resources or where disasters stoke, or simply move quarters around points of interest where people prefer to live.
 
 ```
 Simulation of evolution of city - moving neighborhoods
