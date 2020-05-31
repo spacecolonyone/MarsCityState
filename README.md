@@ -260,15 +260,15 @@ Finally, we will look into the modular infrastructure - the physical support of 
 
 ## Cover
 
-The entire city is covered with a structure made of bricks of rammed soil. The cover provides space for the residents to live in and a first-level protection from radiation and bad weather. There are also the second-level protection by the module inflatables and the third-level (emergency) protection by the module cabine we will describe next.
+The entire city is covered with a structure made of bricks of rammed soil. The cover provides space for the residents to live in and a first-level protection from radiation and bad weather. There are also the second-level protection by the module inflatables and the third-level (emergency) protection by the module cabine we will describe later.
 
-Experiments with Mars soil simulant suggest that the abundant soil of Mars may be used to create strong bricks with little additives if any at all. The weaker gravity of Mars will allow the structures made of rammed soil to be erected taller than equivalent structures made of rammed soil on Earth. Using this material for building will not require expenses for transporting from Earth making it possible to build large structures at lower cost.
+Experiments with Mars soil simulant suggest that the abundant soil of Mars may be used to create strong bricks with little additives if any at all. The weaker gravity of Mars will allow the structures made of rammed soil to be erected taller than equivalent structures made of rammed soil on Earth. Using this material for building will not require expenses for transportation from Earth making it possible to build large structures at lower cost.
 
 Our design will use honeycomb tiling structure with hexagons with diagonal of 4 meters, where every hexagon borders with exactly 3 columns. The columns will be 1 meter in diameter and 6 meters tall. The columns will support 60 degree roofs that top 12 meters above ground.
 
 ![cover-structure](https://user-images.githubusercontent.com/637315/82950740-84d68a80-9fae-11ea-9f32-c436c9defd59.png)
 
-The cover will provide isolation in terms of air pressure and temperature. It will be possible to maintain . Although it will not be sufficient for humans without extra protection it will allow for the modules inside the cover to be lighter and more flexible and it will allow residents freedom for short activities outside the modules.
+The cover will provide isolation in terms of air pressure and temperature. It will be possible to maintain constant air pressure in the range between 20% and 50% of that on Earth and temperature ranges above zero degree Celsius. Although this will not be sufficient for humans without extra protection it will allow for the modules inside the cover to be more light-weight and more flexible. It will also allow residents some freedom for short activities outside the modules.
 
 ```
 Calculate the size of area for the cover for 1000 residents - 
@@ -292,13 +292,13 @@ The cover is constructed and maintained by automated drones. The drones also lay
 
 A single drone is configured to perform one or more of the following tasks:
 
- * Collect soil - The drone will be able to dig into the Mars surface, extract small chunks of soil and store them in an in-built container. The drone will operate like an ant, rather than like a bulldozer, meaning that it will be equipped with small rippers - claw-like devices - and will be able to dig soil in small chunks to collect a target amount of soil rather than collect a large quantity of soil at once
+ * Collect soil - The drone will be able to dig into the Mars surface, extract small chunks of soil and store them in an in-built container. The drone will operate like an ant, rather than like a bulldozer, meaning that it will be equipped with small rippers - claw-like devices - and will be able to dig soil in small chunks to collect a desired amount of soil rather than collect a large quantity of soil at once
 
  * Ram soil into a brick - The drone will be then able to press the collected soil in its in-built container into a brick. It will be equipped with the mechanism needed to mix the soil with necessary additives and exercise the necessary pressure.
 
- * Move a brick of rammed soil - The drone will be able to move a brick - either a brick it produced or a brick it collected - to the destination pointed by the control center. It will be equipped with communication device to connect to the control center. It will also be equipped with six or eight legs to be able to move itself - together with the brick it carries - on the surface of Mars as well as climb on lain bricks. When it needs to climb on top of a tall structure, for example to lay a new brick or to collect a previously lain brick - it will swarm with other drones to first build a ramp of bricks to make path to the target position.
+ * Move a brick of rammed soil - The drone will be able to move a brick - either a brick it produced or a brick it collected - to the destination pointed by the control center. It will be equipped with communication device to connect to the control center. It will also be equipped with six or eight legs to be able to move itself (together with the brick it carries) on the surface of Mars as well as climb on lain bricks. When it needs to climb on top of a tall structure, for example to lay a new brick or to collect a previously lain brick, it will swarm with other drones to first build a ramp of bricks to make path to the target position.
 
- * Move a module (together with other drones) - The drone will be able to also move larger objects - obstacles, debris, and very importantly the modules we will describe later. Because those objects may be larger than a single drone, the control center will co-ordinate a few drones to work together and move the object as a group.
+ * Move a module (together with other drones) - The drone will be able to also move larger objects - obstacles, debris, other drones, and very importantly the modules we will describe later. Because those objects may be larger than a single drone, the control center will co-ordinate a few drones to work together and move the object as a group.
 
 In addition, the drone will be able to perform supporting tasks, such as going to a re-charging or a cleaning station.
 
@@ -308,13 +308,13 @@ The following sequence shows a simulation of drones swarming to build the cover 
 Simulation of drone swarming to build a cover
 ```
 
-The design of the drones implies that they will compensate the fact that they are not individually strong with working in groups and consuming more time to build and maintain things. If we consider the cover structure as described and scaled to support 1000 residents, which will be sufficient for the entire first phase, it will require 90 million bricks. We will assume 1000 drones, one per resident, and average time to build a single brick of 10 minutes and average time to move and lay a single brick of 10 minutes. The time required to build the cover structure will be 3.5 years. Since the first phase is projected to 20 years, until 2050, it will be possible to build the cover with these 1000 drones, leaving sufficient time for defects, recharging and other tasks.
+The design of the drones implies that they will compensate the fact that they are not individually strong with working in groups and consuming more time to build and maintain things. If we consider the cover structure as described and scaled to support 1000 residents, which will be sufficient for the entire first phase, it will require 90 million bricks. We will assume 1000 drones, one per resident, and average time to build a single brick of 10 minutes and average time to move and lay a single brick of 10 minutes. The time required to build the cover structure will be 3.5 years. Since the first phase is projected to 20 years, until 2050, it will be possible to build the cover with these 1000 drones, leaving sufficient time for dealing with malfunctions, time for recharging and other tasks.
 
 ## Modules
 
 Within the cave of the cover, the city will be built on top of a layer of connected modules. The modules will be lain on the ground arranged in a layout that completely covers the surface around the columns of the cover. These modules will be the flooring of all areas in the city - private, social and industrial. The modules will be standardized and therefore they will be possible to be repurposed, reused and replaced as needed.
 
-The basic module is a hollow hexagonal prism of 2 meters in side length and 0.6 meters in height.
+The basic module is a hollow hexagonal prism of 2 meters in side length and 1 meters in height when deflated and 4 meters in height when inflated.
 
 ```
 Diagram of a basic module
@@ -324,15 +324,15 @@ Upper layer - inflated cover
 ```
 
 The module has three layers:
- * The lower layer is for the logistics in the city - for transporation. It contains 3 tubes connecting its opposite sides with an electro-mechanical dispatcher unit that controls the movement of capsules in the tubes. The dispatcher unit will maintain the speed of the capsules in transit through the module, will pull the capsules that are sent to this module out of the transport tubes and will store them in the upper layer, and will put the capsules that are sent from this module into the transport tubes.
- * The middle layer serves as a storage for resources and as a highly protected environment. The capsules that are stored in the upper layer of the module can be used by appliances placed on the module, or can be just stored for future use.
- * The upper layer is an inflatable cover that provides the living spaces of the city. When inflated it is 3 meters high and with a volume of 30 cubic meters. The top plate is supported by six inflated columns. These support columns are attached to the neighboring modules. Any of the six sides can be covered to form a wall between the modules or it can otherwise be used as a door to the next module. When the module is deflated, the inflatable supporting columns and the wall covers get inside jobs in the middle layer while the top plate lays tighly on to of the middle layer.
+ * The lower layer is for the logistics in the city - for transporation. It contains 3 tubes connecting its opposite sides with an electro-mechanical dispatcher unit that controls the movement of capsules in the tubes. The dispatcher unit will maintain the speed of the capsules in transit through the module, will pull the capsules that are sent to this module out of the transport tubes and will store them in the middle layer, and will put the capsules that are sent from this module into the transport tubes.
+ * The middle layer serves as a storage for resources and as a highly protected environment. The capsules that are stored in the middle layer of the module can be used by appliances placed in the upper layer of the module, or can be just stored for future use.
+ * The upper layer is an inflatable cover that provides the living spaces of the city. When inflated it is 3 meters high and with a volume of 30 cubic meters. The top plate is supported by six inflated columns. These support columns can be attached to the neighboring modules. Any of the six sides can be covered to form a wall between the modules or can otherwise be used as a door to the next module. When the module is deflated, the inflatable supporting columns and the wall covers get inside jobs in the middle layer while the top plate lays securely on top of the middle layer.
 
-The most visible part of the module is the inflatable upper layer. This is where people live and work. The same standardized structure of the module will be used for all needs - private, social and industrial areas - so that they can interconnect and work together as the transport backbone of the city. The modules can also be equipped with different instruments and will store capsules with different resources to fit the purpose of the area it is placed in. For example, modules in private areas will have home furniture and appliances, while industrial areas will have office furniture, manufacturing machinery or may be even defalated if used for robotic activities.
+The most visible part of the module is the inflatable upper layer. This is where people live and work. The same standardized structure of the module will be used for all needs - private, social and industrial areas - so that they can interconnect and work together as the transport backbone of the city. The modules can also be equipped with different instruments and will store capsules with different resources to fit the purpose of the area they are located in. For example, modules in private areas will have home furniture and appliances, while industrial areas will have office furniture, manufacturing machinery or may be even defalated if used for robotic activities.
 
 The middle layer of the module is usually used for storage. But in private areas, its highly protected environment is also used by residents as a healthy place to sleep in and as an emergency bunker. This layer can be equipped with instruments for health monitoring and treatment.
 
-The module is at all times participating in the logistics system of the city as a transport relay. It is the lower lay of the module that is responsible for that. The module is connected to other modules tiling in a honeycomb structure. The tubes of adjacent modules get connected to form long pipes for transportation of goods in the capsules.
+The module is at all times participating in the logistics system of the city as a transport relay. It is the lower layer of the module that is responsible for that. The module is connected to other modules tiling in a honeycomb structure. The tubes of adjacent modules get connected to form long pipes for transportation of goods in the capsules.
 
 This diagram shows the modules of a neighborhood with the privates areas of a few residences, the social areas of streets and gathering places, and the industrial areas of a few shops:
 
@@ -350,7 +350,7 @@ Simulation of logistics of capsules in a neighborhood with 1000 residents and al
 
 The control center also serves as the main interface in communication between the residents, the businesses, the governor, the service platform. For example, when a resident wants to report an incident they will talk to the AI.
 
-This diagram demonstrates the power and flexibility of the infrastructure in the evolution of the city. All components of the infrastructure are managed by the control center and work together to move entire neighborhoods from locations of declining attractiveness to locations with better potential. The city will be able to get closer to newly discovered deposits of natural resources, move away from locations near depleted resources or where disasters stoke, or simply move quarters around points of interest where people prefer to live.
+This diagram demonstrates the power and flexibility of the infrastructure in the evolution of the city. All components of the infrastructure are managed by the control center and work together to move entire neighborhoods from locations of declining attractiveness to locations with better potential. The city will be able to get closer to newly discovered deposits of natural resources, move away from locations near depleted resources or where disasters stroke, or simply move quarters around points of interest where people prefer to live.
 
 ```
 Simulation of evolution of city - moving neighborhoods
@@ -371,5 +371,3 @@ Simulation of evolution of city - moving neighborhoods
  * https://en.wikipedia.org/wiki/Space_elevator
  * https://en.wikipedia.org/wiki/Earth_structure - Information on rammed soil bricks
  * https://www.theverge.com/2017/4/27/15436154/mars-soil-simulant-study-building-human-missions - Research on use of Mars soil for bricks
-
- * https://cloud.anylogic.com/model/a53e8273-a981-48dc-9fe3-38dde2ee6ce2 - Simulations referred in this document
