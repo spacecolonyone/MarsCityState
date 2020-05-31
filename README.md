@@ -1,11 +1,11 @@
-The following is a design of an envisioned city on Mars. It describes a pioneering large settlement in space - one that should be possible to build already in 21st century. Its design focuses on characteristics that will make it practical, vital and sustainable. As such, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space.
+The following is a design of an envisioned city on Mars reaching population of 1 million people. It describes a pioneering large settlement in space - one that should be possible to build already in 21st century. Its design focuses on characteristics that will make it practical, vital and sustainable. As such, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space.
 
 ```
 diagram of 4 characteristics, 3 players, 4 milestones and 3 phases
 ```
 
 The design of the city is based on four key characteristics:
- * **Economic attractiveness** - while the Earth in 21st century is seeing the limit to its population and fierce competition over natural resources, the city on Mars will offer businesses healthy economic growth through access to **fast-growing population** and **untapped resources**
+ * **Economic attractiveness** - while Earth in 21st century is seeing the limit to its population and fierce competition over natural resources, the city on Mars will offer businesses healthy economic growth through access to **fast-growing population** and **untapped resources**
  * **Development roadmap** - the **identity of the city** will evolve around a sequence of **major milestones** in its development - building the first space elevator and the first industrial factory in space - attracting the right residents to support it
  * **Service platform** - the city will provide a platform for services for the needs of its residents and businesses. It will make it easy for businesses to quickly start and **scale** their operations. It will also enforce **regulation** over all services to ensure they are safe to be consumed by the residents
  * **Modular infrastructure** - the infrastructure provides basis for the logistics in the city through an assembly of **standardized modules**. The blocks are easy to replace when damaged and easy to relocate when the city needs to **adapt and evolve**
@@ -14,6 +14,15 @@ and the interaction of three key participating groups:
  * **Governor**
  * **Residents**
  * **Service companies**
+
+to develop in three phases defined by achieving key milestones:
+ * **City founded milestone** - City is founded as a small colony
+ * **Science and tourism phase** - Period of developing science and tourism projects
+ * **First space elevator milestone** - The first space elevator is built
+ * **Real estate phase** - Period of developing real estate marketplace
+ * **First industrial factory milestone** - The first industrial zone in orbit is built
+ * **Industrial phase** - Period of developing manufactoring power
+ * **Population of 1 million milestone**
 
 <div style="page-break-after: always;"></div>
 
