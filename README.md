@@ -59,32 +59,32 @@ We can conclude that, during the following century, there will be a great contra
 
 The design of the city proposed here will follow an interesting path of economic development. According to the three-sector model of economics the main focus of societies will shift from the primary sector (extraction of raw materials) through the secondary sector (manufacturing) to the tertiary sector (services). The model classifies intellectual activities and knowledge based activities in the quaternary sector as an extension to the model.
 
-The city on Mars will, however, follow a reversed path by starting almost entirely in the quaternary and tertiary sectors. Within the first few decades after its foundation its main livelihood and source of income will be from exporting science and tourism. Only after the first milestone of building the first space elevetor it will become sufficiently affordable for various businesses and individuals to self-fund their journey to Mars and the critical mass of residents and services will reach the point for the tertiary sector to dominate the economic activities. Later, after the second milestone of building the first industrial factory in space, the secondary sector will gain momentum as the city will be capable of producing a rich variety of goods. Finally, the city will build the needed industrial power to develop extraction sites sufficient to become net exporter of raw materials.
+The city on Mars will, however, follow a reversed path by starting almost entirely in the quaternary and tertiary sectors. Within the first few decades after its foundation its main livelihood and source of income will be from exporting science and tourism. Only after the first milestone of building the first space elevator it will become sufficiently affordable for various businesses and individuals to self-fund their journey to Mars and the critical mass of residents and services will reach the point for the tertiary sector to dominate the economic activities. Later, after the second milestone of building the first industrial factory in space, the secondary sector will gain momentum as the city will become capable of producing a rich variety of goods. Finally, the city will build the needed industrial power to develop extraction sites sufficient to become net exporter of raw materials.
 
-The share of economic sectors in time will evolve in this way:
+The share of economic sectors in time will evolve in the following way:
 ![economy-sectors](https://user-images.githubusercontent.com/637315/82159640-5236de80-9898-11ea-8b17-e51e0e6d4dd6.png)
 
-The design of the city on Mars deliberately supports this path of economic evolution and the city founder will have the responsibility to maintain it because it will ensure that GDP per capita for the city will start reltively high and will remain high, which will be an important factor for attracting businesses and residents.
+The design of the city on Mars deliberately supports this path of economic evolution and the city founder will have the responsibility to maintain it because it will ensure that GDP per capita for the city will start relatively high and will remain high, which will be an important factor for attracting businesses and residents.
 
 ## Return on investment for the city founder
 
-The city will be driven by three groups - the governor, residents and businesses. The city founder will possibly be the first governor to run the city. They will have a few responsibilities that we will describe further and among those there will be the responsibility to maintain the economical viability of the city. This will include building the city by the design and managing the different phases, most importantly the first phase "Science and tourism" which will require a lot of financial investment and entrepreneurial skills until the city gains momentum to transition into the next phase.
+The city will be driven by three groups - the governor, residents and businesses. The city founder will possibly be the first governor to run the city. The gorvernor organization will have a few responsibilities that we will describe further and among those there will be the responsibility to maintain the economical viability of the city. This will include building the city by the design and managing the different phases, most importantly the first phase "Science and tourism" which will require a lot of financial investment and entrepreneurial skills until the city gains momentum to transition into the next phase.
 
 The city founder will need to either provide or contract:
  * Pipeline of science projects - for revenue
  * Pipeline of tourists - for revenue
- * The minimum services - shelter, air, water, food and waste, energy and heating, communication - through the service platform described later - for supporting the science and tourism activities
+ * The minimum services - shelter, air, water, food and waste, energy and heating, communication - through the service platform we will describe later - for supporting the science and tourism activities
 
-The following calculation presents the scenario where the city founder . It spreads all investments starting from a 10-year period before the city is founded. Capital and operating expenses are split in categories reseaarh and deveopment (R&D), production, transport, aintenance and operations with the following assumptions:
- * Research and development activities start in 2020 (or 10 years before the planned date of city founding)
+The following calculation presents the scenario where the city founder provides and funds all minimum services. The calculation spreads all investments starting from a 10-year period before the city is founded. Capital and operating expenses are split in categories researh and deveopment (R&D), production, transportation, maintenance and operations with the following assumptions:
+ * Research and development activities start in 2020 (which is 10 years before the planned date of city founding)
  * The population starts with 10 residents in 2030 and grows to 1000 residents in 2050
  * The city founder provides the six life support services - the set of minimum services in the service platform
  * Yearly spending of 200 million USD per service per year for research and development
  * Service equipment is produced on Earth with progressively increased capacity amounting to 120% of actual population in the city
- * Cost of service equipment starts at 50 million USD per resident per service and is reduced by 10% per year from research and development output
+ * Cost of service equipment starts at 50 million USD per resident per service and is reduced by 10% per year due to technological advances from the output of research and development
  * Weight of service equipment is 10 000 kg per resident and is transported to Mars at 500 USD per kg
  * Yearly maintenance expenses of service equipment is 20% of its production cost
- * Yearly operating expenses and supplies of service equipment is 100 000 USD per resident per service
+ * Yearly operating expenses and supplies for the service equipment is 100 000 USD per resident per service
  * Scientists in city are 20% of population
  * 3 active projects per scientist per year
  * Yearly revenue of 25 million USD per active scientific project
@@ -93,7 +93,7 @@ The following calculation presents the scenario where the city founder . It spre
 
 ![cash-flow](https://user-images.githubusercontent.com/637315/82259422-36007380-9964-11ea-8ff7-f6e01d332912.png)
 
-This high-level calculations show that the city founder will reach positive cash flow around year 2045 and will break even 10 years later. Net expenses top at 4 billion USD per year which could be a manageable joint investment by a group of a dozen interested large enterprises that wish to take the first mover advantage in a new Mars economy.
+This high-level calculation showw that the city founder will reach positive cash flow around year 2045 and will break even 10 years later. Net expenses top at 4 billion USD per year which could be a manageable joint investment by a group of a dozen interested large enterprises that wish to capture the first mover advantage in a new Mars economy.
 
 <div style="page-break-after: always;"></div>
 
