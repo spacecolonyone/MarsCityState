@@ -23,7 +23,7 @@ The first city on Mars and its design will be shaped by the forces that lead hum
 
 ## Natural resources and population growth on Earth
 
-The world has experienced exponential economic growth in the last decades with advances in technology and high standard of living. Despite the many threats to the economy (like financial crises, climate changes, depleting natural resources, social inequalities, etc.) businesses and consumers are used to this growth and are expecting it to continue. The econimic growth, as measured by world GDP per capita, is projected to continue to grow but any analyses on the future of economy describes the increased effort required to maintain this growth, partially due to the effects of over-population. The increasing population on Earth and its increasingly demanding way of living will burden the access to the limited sources of energy, water and food.
+The world has experienced exponential economic growth in the last decades with advances in technology and high standard of living. Despite the many threats to the economy (like financial crises, climate changes, depleting natural resources, social inequalities, etc.) businesses and consumers are used to this growth and are expecting it to continue. The economic growth, as measured by world GDP per capita, is projected to continue to grow but many analyses on the future of economy describe the increased effort required to maintain this growth, partially due to the effects of over-population. The increasing population on Earth and its increasingly demanding way of living will burden the access to the limited sources of energy, water and food.
 
 Cost of living will increase in the following decades and will contribute to the slow down of the growth rate of world population. Projections show that by year 2100 the growth rate of human population will get back to that of year 1900.
 ![absolute-increase-global-population](https://user-images.githubusercontent.com/637315/82130786-420afa80-97d7-11ea-9bf4-cb0c67c5521a.png)
@@ -37,21 +37,21 @@ Since population growth is a key driver of economic growth, the limited growth o
 
 While the economy on Earth will face over-population and saturated markets, the economy on Mars will have different challenges and opportunities. Mars is neither populated, nor developed. However, it has huge potential in land to populate, natural resources to extract and better access to Space and its resources. The major barriers to untapping this potential for population and natural resources can be removed with advances in technology, which history shows follow Moore's law. Therefore it is reasonable to assume that our abilities to expand our economy on Mars will grow exponentially, doubling every few years or decades.
 
-Founding a city on Mars with even mediocre standard of living will unlock population growth rate similar to that of average Earth cities. Our proposed design will aim for relatively good standard of living with growth rate following the fours milestones of development of the city:
+Founding a city on Mars with even mediocre standard of living will unlock population growth rate similar to that of average Earth cities. Our proposed design will aim for relatively good standard of living with growth rate following the envisioned fours milestones of development of the city:
 
  * Annual growth rate of 20% from 2030 to 2050 with science and tourism as main source of income. The population will grow from 10 to 1000 residents
- * Annual growth rate of 10% from 2050 to 2100 with real-estate and services as main source of income. The population will grow from 1K to 100K residents
- * Annual growth rate of 5% from 2100 to 2150 with industrial as main source of income. The population will grow from 100K to 1M residents
+ * Annual growth rate of 10% from 2050 to 2100 with real estate and services as main source of income. The population will grow from 1K to 100K residents
+ * Annual growth rate of 5% from 2100 to 2150 with services still being the major source of income but now supplemented with manufacturing. The population will grow from 100K to 1M residents
  
 ![mars-population](https://user-images.githubusercontent.com/637315/82145313-9a331280-9852-11ea-80ac-4ef901ceb4b4.png)
 
 As a result the first city, or network of cities, will reach a population of 1 million by year 2150. This population will participate in the economy and will, by itself, attract businesses.
 
-Natural resources on the surface of Mars and in space near the planet will also become easier to harvest. Although in the beginning heavy machinery will be expensive to transport to the planet, advances in technology - lighter materials and cheaper transportation - will gradually lower the costs for opening and operating resources extraction sites. In constrast, on Earth the cost of running similar sites will continue to grow due to competition over resources and environmental concerns, for example pollution.
+Natural resources on the surface of Mars and in space near the planet will also become easier to harvest. Although in the beginning heavy machinery will be expensive to transport to the planet, advances in technology - lighter materials and cheaper transportation - will gradually lower the costs for opening and operating extraction sites for natural resources. In constrast, on Earth the cost of running similar sites will continue to grow due to competition over resources and environmental concerns such as pollution hazards.
 
 In addition, the gravity of Mars is only about 38% of that of Earth and it is situated 50% closer to the edge of the asteroid belt which makes it a better candidate than Earth for becoming an asteroid mining hub.
 
-We can conclude that there will be a great contrast in the following century between Earth and Mars considering population growth and access to natural resources. Population growth on Earth will slow down, while that on Mars will grow exponentially. Access to natural resources on Earth will slow down, while that on Mars will grow exponentially. This conclusion suggests Mars will at a given point in time become an interesting investment opportunity and earlier investors will gain advantage over laggers.
+We can conclude that, during the following century, there will be a great contrast between Earth and Mars considering population growth and access to natural resources. Population growth on Earth will slow down, while that on Mars will grow exponentially. Access to natural resources on Earth will slow down, while that on Mars will grow exponentially. This conclusion suggests that Mars will at a given point in time become a very interesting investment opportunity and that early investors will gain advantage over laggers.
 
 <div style="page-break-after: always;"></div>
 
