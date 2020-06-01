@@ -287,8 +287,9 @@ Our design will use honeycomb tiling structure with hexagons with diagonal of 4 
 
 The cover will provide isolation in terms of air pressure and temperature. It will be possible to maintain constant air pressure in the range between 20% and 50% of that on Earth and temperature ranges above zero degree Celsius. Although this will not be sufficient for humans without extra protection it will allow for the modules inside the cover to be more light-weight and more flexible. It will also allow residents some freedom for short activities outside the modules.
 
+The city will build cover following its growth. The first phase of the development of the city will require cover for 1000 residents, which will be made of 3 neighbors, each being 180 meters in diameter and consisting of 6000 cells arranged in honeycomb tiling in 45 rounds aroung a center cell. The city will use many such neighborhoods in clusters around points of interest on the surface of Mars. A total of 3000 such neighborhoods will be required for the city to reach population of 1 million. One neighborhood will look like this:
+
 ```
-Calculate the size of area for the cover for 1000 residents - 
 Image of the exterior of cover for 1000 residents
 ```
 
