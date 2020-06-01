@@ -1,27 +1,35 @@
+
+![milestone-3](https://user-images.githubusercontent.com/637315/80925238-bfc21580-8d96-11ea-9972-8bed55533ed6.png)
+
+<div style="page-break-after: always;"></div>
+
+# Summary
+
 The following is a design of an envisioned city on Mars reaching population of 1 million people. It describes a pioneering large settlement in space - one that should be possible to build already in 21st century. Its design focuses on characteristics that will make it practical, vital and sustainable. As such, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space.
 
-```
-diagram of 4 characteristics, 3 players, 4 milestones and 3 phases
-```
+![summary-2](https://user-images.githubusercontent.com/637315/83384160-59f59780-a3ef-11ea-82eb-34034fcdf9e0.png)
 
 The design of the city is based on four key characteristics:
  * **Economic attractiveness** - while Earth in 21st century is seeing the limit to its population and fierce competition over natural resources, the city on Mars will offer businesses healthy economic growth through access to **fast-growing population** and **untapped resources**
  * **Development roadmap** - the **identity of the city** will evolve around a sequence of **major milestones** in its development - building the first space elevator and the first industrial factory in space - attracting the right residents to support it
  * **Service platform** - the city will provide a platform for services for the needs of its residents and businesses. It will make it easy for businesses to quickly start and **scale** their operations. It will also enforce **regulation** over all services to ensure they are safe to be consumed by the residents
- * **Modular infrastructure** - the infrastructure provides basis for the logistics in the city through an assembly of **standardized modules**. The blocks are easy to replace when damaged and easy to relocate when the city needs to **adapt and evolve**
+ * **Modular infrastructure** - the infrastructure provides basis for the logistics in the city through an assembly of standardized  **reusable** modules. The blocks are easy to replace when damaged and easy to relocate when the city needs to **adapt** and evolve
 
-and the interaction of three key participating groups:
- * **Governor**
- * **Residents**
- * **Service companies**
+We will describe these through the interaction of three participating groups:
+ * **Governor** - the organization that initially founds the city and then runs it
+ * **Residents** - the people who live and work in the city
+ * **Businesses** - the service companies that supply the residents with everything needed to sustain and imorive the quality of their lives
 
-to develop in three phases defined by achieving key milestones:
+and through the phases of the development roadmap of the city, as defined by the achievement of the key milestones:
+
+![summary-1](https://user-images.githubusercontent.com/637315/83384163-5a8e2e00-a3ef-11ea-84b0-76282631c783.png)
+
  * **City founded milestone** - City is founded as a small colony
  * **Science and tourism phase** - Period of developing science and tourism projects
- * **First space elevator milestone** - The first space elevator is built
- * **Real estate phase** - Period of developing real estate marketplace
- * **First industrial factory milestone** - The first industrial zone in orbit is built
- * **Industrial phase** - Period of developing manufactoring power
+ * **First space elevator milestone** - The first space elevator is built. It will boost the transport channels to the surface of the planet
+ * **Real estate phase** - Period of city expansion and the development of attractive marketplace for real estate on Mars
+ * **First industrial factory milestone** - The first industrial zone in orbit is built. It will boost the industrial potential of the city
+ * **Industrial phase** - Period of developing manufactoring power. It will make the city self-sustaning and independent from Earth
  * **Population of 1 million milestone**
 
 <div style="page-break-after: always;"></div>
