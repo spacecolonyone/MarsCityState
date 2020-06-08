@@ -270,7 +270,7 @@ After the city passes the **First industrial factory milestone** and enters its 
 
 <div style="page-break-after: always;"></div>
 
-# Modular infrastruture
+# Modular infrastructure
 
 Finally, we will look into the modular infrastructure - the physical support of the service platform. It consists of rammed soil protective cover, connected modules for flooring and logisticts, robotic drones for maintenance and control center for monitoring and control.
 
