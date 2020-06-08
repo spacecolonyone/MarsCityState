@@ -147,7 +147,7 @@ The income of the city will rely on the science projects and tourists. The city 
 
 The city will build its first space elevator in around 2050.
 
-![milestone-1](https://user-images.githubusercontent.com/637315/80925241-c2bd0600-8d96-11ea-8f41-4438bb606af3.png)
+![city-2050](https://user-images.githubusercontent.com/637315/84036017-4e810e00-a9a5-11ea-9ee4-55018acf86d5.jpg)
 
 The elevator will be in its own right a "wonder of the world" with great economic and social impact. It will mark a turning point for the city by offering more affordable way for people to maintain their desired standard of living on Mars as compared to living on Earth. The number of people self-funding their migration to the city will for the first time exceed the number of residents hired to support the scientists and tourists.
 
