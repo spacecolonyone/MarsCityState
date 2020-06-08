@@ -167,7 +167,7 @@ The city will build its first industrial factory in space in around 2100.
 
 Building on the first space elevator, a network of space elevators will speed up and improve the logistics between the surface of Mars, its orbits as well as the Earth and asteriod belt. The city will have a clear advantage over Earth in building a large industrial complex in space. This complex will have lower cost for transportation and construction as compared to the competition on Earth. It will have high levels of automation with operations in space premises performed by robots and remotely controlled from Mars surface.
 
-![milestone-2](https://user-images.githubusercontent.com/637315/80925235-bd5fbb80-8d96-11ea-87cb-a1a8ce36ce03.png)
+![city-2100](https://user-images.githubusercontent.com/637315/84038197-4bd3e800-a9a8-11ea-9984-ef12f62adcb9.jpg)
 
 The factory will have strong competitive advantages over the industrial sites on the Earth in producing certain products, supporting special technologies and developing certain economies. For example, it will have easier access to asteroid-mined resources, will be able to use technologies relying on zero-gravity or vacuum, will be less exposed to risks of polution, etc.
 
