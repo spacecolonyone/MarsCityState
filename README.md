@@ -1,5 +1,4 @@
-
-![milestone-3](https://user-images.githubusercontent.com/637315/80925238-bfc21580-8d96-11ea-9972-8bed55533ed6.png)
+![city-2150](https://user-images.githubusercontent.com/637315/84044884-cdc80f00-a9b0-11ea-99f5-0a15681abd63.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -167,7 +166,7 @@ The city will build its first industrial factory in space in around 2100.
 
 Building on the first space elevator, a network of space elevators will speed up and improve the logistics between the surface of Mars, its orbits as well as the Earth and asteriod belt. The city will have a clear advantage over Earth in building a large industrial complex in space. This complex will have lower cost for transportation and construction as compared to the competition on Earth. It will have high levels of automation with operations in space premises performed by robots and remotely controlled from Mars surface.
 
-![city-2100](https://user-images.githubusercontent.com/637315/84038197-4bd3e800-a9a8-11ea-9984-ef12f62adcb9.jpg)
+![city-2100](https://user-images.githubusercontent.com/637315/84044737-9e190700-a9b0-11ea-884b-666b05097d0b.jpg)
 
 The factory will have strong competitive advantages over the industrial sites on the Earth in producing certain products, supporting special technologies and developing certain economies. For example, it will have easier access to asteroid-mined resources, will be able to use technologies relying on zero-gravity or vacuum, will be less exposed to risks of polution, etc.
 
@@ -179,7 +178,7 @@ The industrial factory in space will define the identity of the city for many de
 
 After building its first industrial factory in space in around 2100, the city will maintain average yearly growth of 4-5% to reach a population of 1 million by around 2150.
 
-![milestone-3](https://user-images.githubusercontent.com/637315/80925238-bfc21580-8d96-11ea-9972-8bed55533ed6.png)
+![city-2150](https://user-images.githubusercontent.com/637315/84044739-9f4a3400-a9b0-11ea-855a-28610aa66580.jpg)
 
 The city will become fully developed and self sustaining, but still a partner to Earth. The service platform will have a wealth of active businesses and new Mars-native businesses will appear. The city will be still attractive for economic growth but will no longer be dependent on entrepreneurs from Earth as local businesses will lead its growth.
 
