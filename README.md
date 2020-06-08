@@ -131,7 +131,7 @@ The design of the city will follow a roadmap of four major milestones that will 
 
 After 10 years of preparation, the city will be founded in around 2030 with the infrastructure and staff to support science projects and tourism. It will start as a small colony with 10 residents and will gradually grow adding infrastructure, habitats and service buildings as more residents move in.
 
-![milestone-0](https://user-images.githubusercontent.com/637315/80925239-c18bd900-8d96-11ea-809f-1862df0036ea.png)
+![city-2030](https://user-images.githubusercontent.com/637315/84034029-702cc600-a9a2-11ea-82c8-80e212167192.jpg)
 
 The governor will play a critical role in this period. The governor organization will be responsible for balancing revenue generation, rate of immigration and city construction activities.
 
