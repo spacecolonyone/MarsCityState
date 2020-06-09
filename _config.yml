@@ -1,13 +1,13 @@
 theme: jekyll-theme-architect
 title: Mars City State
 description: by SpaceColony.One
-image: https://spacecolonyone.github.io/MarsCityState/assets/images/preview.png
+image: https://spacecolonyone.github.io/MarsCityState/assets/images/preview.jpg
 show_downloads: false
 plugins:
   - jekyll-seo-tag
 defaults:
   - values:
       image:
-        path: https://spacecolonyone.github.io/MarsCityState/assets/images/preview.png
+        path: https://spacecolonyone.github.io/MarsCityState/assets/images/preview.jpg
         height: 600
         width: 900
