@@ -3,6 +3,8 @@ title: Mars City State
 description: by SpaceColony.One
 image: https://spacecolonyone.github.io/MarsCityState/assets/images/preview.png
 show_downloads: false
+plugins:
+  - jekyll-seo-tag
 defaults:
   - values:
       image:
