@@ -282,7 +282,7 @@ Experiments with Mars soil simulant suggest that the abundant soil of Mars may b
 
 Our design will use honeycomb tiling structure with hexagons with diagonal of 4 meters, where every hexagon border with exactly 3 columns. The columns will be 1 meter in diameter and 6 meters tall. The columns will support 60-degree roofs that top 12 meters above ground.
 
-![cover-structure](https://user-images.githubusercontent.com/637315/82950740-84d68a80-9fae-11ea-9f32-c436c9defd59.png)
+![cover-structure](https://user-images.githubusercontent.com/637315/84330568-6b2d6980-ab90-11ea-87f4-f3eddcb92fa0.png)
 
 The cover will provide isolation in terms of air pressure and temperature. It will be possible to maintain constant air pressure in the range between 20% and 50% of that on Earth and temperature ranges above zero degree Celsius. Although this will not be enough for humans without extra protection it will allow for the modules inside the cover to be more light-weight and more flexible. It will also allow residents some freedom for short activities outside the modules.
 
