@@ -288,9 +288,7 @@ The cover will provide isolation in terms of air pressure and temperature. It wi
 
 The city will build cover following its growth. The first phase of the development of the city will require cover for 1000 residents, which will be made of 3 neighborhoods, each being 180 meters in diameter and consisting of 6000 cells arranged in honeycomb tiling in 45 rounds around a center cell. The city will use many such neighborhoods in clusters around points of interest on the surface of Mars. A total of 3000 such neighborhoods will be required for the city to reach population of 1 million. One neighborhood will look like this from the outside:
 
-```
-Image of the exterior of cover for 1000 residents
-```
+![neighborhood](https://user-images.githubusercontent.com/637315/84333226-d3cc1480-ab97-11ea-8e94-94037091600a.png)
 
 The habitat should be good from psychological point of view, too. Therefore, it should provide sufficient space and light. Artificial light sources will be attached to the bottom side of the cover to substitute sunlight. The structure will allow for a range of sight of a few hundred meters. Colored sculptures will imitate trees in the distance. One neighborhood will look like this from the inside:
 
