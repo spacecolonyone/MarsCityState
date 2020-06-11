@@ -290,16 +290,9 @@ The city will build cover following its growth. The first phase of the developme
 
 ![neighborhood](https://user-images.githubusercontent.com/637315/84333226-d3cc1480-ab97-11ea-8e94-94037091600a.png)
 
-The habitat should be good from psychological point of view, too. Therefore, it should provide sufficient space and light. Artificial light sources will be attached to the bottom side of the cover to substitute sunlight. The structure will allow for a range of sight of a few hundred meters. Colored sculptures will imitate trees in the distance. One neighborhood will look like this from the inside:
+The habitat should be good from psychological point of view, too. Therefore, it should provide sufficient space and light. Artificial light sources will be attached to the bottom side of the cover to substitute sunlight. The structure will allow for a range of sight of a few hundred meters. Colored sculptures will imitate trees in the distance. One neighborhood will look like this from the inside of the deployed habitat modules we will describe later:
 
-```
-Image of the interior of the cover
-It shows:
- - the tiles of modules
- - the columns of the covers such that you can see in the distance
- - artificial light
- - tree structures
-```
+![interior](https://user-images.githubusercontent.com/637315/84442107-accc1c00-ac45-11ea-9dd2-c25f8c309120.png)
 
 ## Drones
 
