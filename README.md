@@ -278,7 +278,7 @@ Finally, we will describe the modular infrastructure - the physical support of t
 
 The entire city is covered with a structure made of bricks of rammed soil. The cover provides space for the residents to live in and a first-level protection from radiation and bad weather. There are also the second-level protection by the module inflatables and the third level (emergency) protection by the module cabin we will describe later.
 
-Experiments with Mars soil simulant suggest that the abundant soil of Mars may be used to create strong bricks with little additives if any at all. The weaker gravity of Mars will allow the structures made of rammed soil to be erected taller than equivalent structures made of rammed soil on Earth. Using this material for building will not require expenses for transportation from Earth making it possible to build large structures at lower cost.
+Experiments with Mars soil simulant suggest that the abundant soil of Mars may be used to create strong bricks with little additives if any at all. The weaker gravity of Mars will allow the structures made of rammed soil to be erected taller than equivalent structures made of rammed soil on Earth. This material will not require expenses for transportation from Earth allowing for large structures to be build at lower cost.
 
 Our design will use honeycomb tiling structure with hexagons with diagonal of 4 meters, where every hexagon border with exactly 3 columns. The columns will be 1 meter in diameter and 6 meters tall. The columns will support 60-degree roofs that top 12 meters above ground.
 
@@ -286,7 +286,7 @@ Our design will use honeycomb tiling structure with hexagons with diagonal of 4 
 
 The cover will provide isolation in terms of air pressure and temperature. It will be possible to maintain constant air pressure in the range between 20% and 50% of that on Earth and temperature ranges above zero degree Celsius. Although this will not be enough for humans without extra protection it will allow for the modules inside the cover to be more light-weight and more flexible. It will also allow residents some freedom for short activities outside the modules.
 
-The city will build cover following its growth. The first phase of the development of the city will require cover for 1000 residents, which will be made of 3 neighbors, each being 180 meters in diameter and consisting of 6000 cells arranged in honeycomb tiling in 45 rounds around a center cell. The city will use many such neighborhoods in clusters around points of interest on the surface of Mars. A total of 3000 such neighborhoods will be required for the city to reach population of 1 million. One neighborhood will look like this from the outside:
+The city will build cover following its growth. The first phase of the development of the city will require cover for 1000 residents, which will be made of 3 neighborhoods, each being 180 meters in diameter and consisting of 6000 cells arranged in honeycomb tiling in 45 rounds around a center cell. The city will use many such neighborhoods in clusters around points of interest on the surface of Mars. A total of 3000 such neighborhoods will be required for the city to reach population of 1 million. One neighborhood will look like this from the outside:
 
 ```
 Image of the exterior of cover for 1000 residents
