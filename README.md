@@ -324,12 +324,7 @@ Within the cave of the cover, the city will be built on top of a layer of connec
 
 The basic module is a hollow hexagonal prism of 2 meters in length for a side and 1 meter in height when deflated and 4 meters in height when inflated.
 
-```
-Diagram of a basic module
-Lower layer with 3 tubes and dispatcher unit
-Middle layer with bed and compartments for storage of capsules, showing a man sleeping and a few capsules in store.
-Upper layer - inflated cover
-```
+![module](https://user-images.githubusercontent.com/637315/84554594-44526d00-ad21-11ea-926f-ff60697c6bab.jpg)
 
 The module has three layers:
  * The lower layer is for the logistics in the city - for transportation. It contains 3 tubes connecting its opposite sides with an electro-mechanical dispatcher unit that controls the movement of capsules in the tubes. The dispatcher unit will maintain the speed of the capsules in transit through the module, will pull the capsules that are sent to this module out of the transport tubes and will store them in the middle layer, and will put the capsules that are sent from this module into the transport tubes.
