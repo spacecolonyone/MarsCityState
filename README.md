@@ -339,7 +339,7 @@ The module is always participating in the logistics system of the city as a tran
 
 The basic module is used for all areas in the city - private, social and industrial - with different furniture, equipment and resources in stock, as appropriate for the purpose of the particular area. For example, the modules in residential areas will have home furniture and appliances, the modules in public areas will be used for streets and plazas and will have tree and statues, and the modules of comercial and industiral areas will have office furniture and machinery.
 
-This example city plan shows the modules of a section of a neighborhood with the private areas of residences in yellow; the social areas of gthering places in blue, streets in white and parks in green; the commercial areas of shops, offices in red; and the industrial areas of factories and labs in gray. The lower layer of the modules connects all spaces in a continuous logistics system:
+This example city plan shows the modules of a section of a neighborhood with the private areas of residences in yellow; the social areas of gathering places in blue, streets in white and parks in green; the commercial areas of shops, offices in red; and the industrial areas of factories and labs in gray. The lower layer of the modules connects all spaces in a continuous logistics system:
 
 ![cityplan](https://user-images.githubusercontent.com/637315/84580071-4594a000-addc-11ea-9da6-859235a27b86.png)
 
