@@ -337,10 +337,16 @@ The middle layer of the module is usually used for storage. But in private areas
 
 The module is always participating in the logistics system of the city as a transport relay. It is the lower layer of the module that is responsible for that. The module is connected to other modules tiling in a honeycomb structure. The tubes of adjacent modules get connected to form long pipes for transportation of goods in the capsules.
 
-This diagram shows the modules of a neighborhood with the private areas of a few residences, the social areas of streets and gathering places, and the industrial areas of a few shops:
+This diagram shows the modules of a section of a neighborhood with the private areas of residences in yellow; the social areas of gthering places in blue, streets in white and parks in green; the commercial areas of shops, offices in red; and the industrial areas of factories and labs in gray. The lower layer of the modules connects all spaces in a continuous logistics system:
 
 ```
 Diagram of a residence with a few modules
+```
+
+```
+Describe the capsules. Standardized. Reusable. Cheap to replace.
+Note on suppliers and consumers.
+Examples for the capsules - energy with batteries, water, food, waste
 ```
 
 ## Control
