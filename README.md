@@ -343,23 +343,27 @@ This example city plan shows the modules of a section of a neighborhood with the
 
 ![cityplan](https://user-images.githubusercontent.com/637315/84580071-4594a000-addc-11ea-9da6-859235a27b86.png)
 
-```
-Describe the capsules. Standardized. Reusable. Cheap to replace.
-Note on suppliers and consumers.
-Examples for the capsules - energy with batteries, water, food, waste
-```
 
 ## Control
 
 All infrastructure components are controlled centrally, heavily aided by IT systems and artificial intelligence. The control center manages the transactions in the service platform, optimizes the path of deliveries, mitigates risks of failures, navigates the drones to build new housings and repair existing housings, conditions living spaces and assists the residents.
 
-```
-Simulation of logistics of capsules in a neighborhood with 1000 residents and all basic services plus some amenities
-```
-
 The control center also serves as the main interface in communication between the residents, the businesses, the governor, the service platform. For example, when a resident wants to report an incident they will talk to the AI.
 
-This diagram demonstrates the power and flexibility of the infrastructure in the evolution of the city. All components of the infrastructure are managed by the control center and work together to move entire neighborhoods from locations of declining attractiveness to locations with better potential. The city will be able to get closer to newly discovered deposits of natural resources, move away from locations near depleted resources or where disasters stroke, or simply move quarters around points of interest where people prefer to live.
+An important role of control center is managing the logistics of the city. All essential goods and resources travel through the city inside the transport tubes of the lower layer of the infrastructure modules. Standardized reusable capsules are used to contain the resources. The capsules can contain and transport one resource at a time. A basic container can be used to store resources that do not require special handling, such as water, food, waste, but specialized units with the same capsule shape can be used in the transport tubes to transport and store other resources. For example, a battery capsule can store and transport energy for electricity; or high-pressure tanks can store and transport oxygen or air.
+
+Businesses, in their role of service providers, will fill in capsules with the goods they supply and put them into the transportation system. Residents and other businesses, in their role of consumers, will receive the capsules, store them locally, consume the goods and eventually return the capsules. The control center will manage the transactions and will navigate the capsules from supplier to consumer.
+
+```
+Calculation of logistics of capsules in a neighborhood with 1000 residents and all basic services plus some amenities
+What is the volume of a capsule?
+How many capsules are needed for 1000 residents?
+How many capsules will be in transit at any given time?
+What speed they will travel at?
+What redundancy there is for emergencies, rerouting, peaks and growth of demand?
+```
+
+Finally, the control center is responsible for city's urban planning. All components of the infrastructure are managed by the control center and work together to move entire neighborhoods from locations of declining attractiveness to locations with better potential. The city will be able to get closer to newly discovered deposits of natural resources, move away from locations near depleted resources or where disasters stroke, or simply move quarters around points of interest where people prefer to live. This sequence of diagrams, illustrating the move of a block near pollution area (marked with a biohazard symbol) to a site of a new resource (marked with a green leaf symbol), demonstrates the power and flexibility of the infrastructure in the evolution of the city.
 
 ```
 Simulation of evolution of city - moving neighborhoods
