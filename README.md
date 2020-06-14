@@ -282,9 +282,11 @@ Experiments with Mars soil simulant suggest that the abundant soil of Mars may b
 
 Our design will use honeycomb tiling structure with hexagons with diagonal of 4 meters, where every hexagon border with exactly 3 columns. The columns will be 1 meter in diameter and 6 meters tall. The columns will support 60-degree roofs that top 12 meters above ground.
 
-![cover-structure](https://user-images.githubusercontent.com/637315/84330568-6b2d6980-ab90-11ea-87f4-f3eddcb92fa0.png)
+![cover-structure](https://user-images.githubusercontent.com/637315/84602507-8fd75900-ae90-11ea-88d1-98891cf4ed3e.png)
 
 The cover will provide isolation in terms of air pressure and temperature. It will be possible to maintain constant air pressure in the range between 20% and 50% of that on Earth and temperature ranges above zero degree Celsius. Although this will not be enough for humans without extra protection it will allow for the modules inside the cover to be more light-weight and more flexible. It will also allow residents some freedom for short activities outside the modules.
+
+<div style="page-break-after: always;"></div>
 
 The city will build cover following its growth. The first phase of the development of the city will require cover for 1000 residents, which will be made of 3 neighborhoods, each being 180 meters in diameter and consisting of 6000 cells - for private, social and industrial use - arranged in honeycomb tiling in 45 rounds around a center cell. The city will use many such neighborhoods in clusters around points of interest on the surface of Mars. A total of 3000 such neighborhoods will be required for the city to reach population of 1 million. One neighborhood will look like this from the outside:
 
@@ -293,6 +295,8 @@ The city will build cover following its growth. The first phase of the developme
 The habitat should be good from psychological point of view, too. Therefore, it should provide sufficient space and light. Artificial light sources will be attached to the bottom side of the cover to substitute sunlight. The structure will allow for a range of sight of a few hundred meters. Colored sculptures will imitate trees in the distance. One neighborhood will look like this from the inside of the deployed habitat modules we will describe later:
 
 ![interior](https://user-images.githubusercontent.com/637315/84442107-accc1c00-ac45-11ea-9dd2-c25f8c309120.png)
+
+<div style="page-break-after: always;"></div>
 
 ## Drones
 
