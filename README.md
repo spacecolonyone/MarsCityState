@@ -365,9 +365,7 @@ What redundancy there is for emergencies, rerouting, peaks and growth of demand?
 
 Finally, the control center is responsible for city's urban planning. All components of the infrastructure are managed by the control center and work together to move entire neighborhoods from locations of declining attractiveness to locations with better potential. The city will be able to get closer to newly discovered deposits of natural resources, move away from locations near depleted resources or where disasters stroke, or simply move quarters around points of interest where people prefer to live. This sequence of diagrams, illustrating the move of a block near pollution area (marked with a biohazard symbol) to a site of a new resource (marked with a green leaf symbol), demonstrates the power and flexibility of the infrastructure in the evolution of the city.
 
-```
-Simulation of evolution of city - moving neighborhoods
-```
+![city-evolution](https://user-images.githubusercontent.com/637315/84594525-a9aa7900-ae5b-11ea-8922-562d42b8939e.png)
 
 <div style="page-break-after: always;"></div>
 
