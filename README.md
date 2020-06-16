@@ -316,9 +316,9 @@ In addition, the drone will be able to perform supporting tasks, such as going t
 
 The following sequence shows a simulation of drones swarming to build the cover structure:
 
-```
-Simulation of drone swarming to build a cover
-```
+![drone-swarm](https://user-images.githubusercontent.com/637315/84834553-52163400-b03a-11ea-8cd4-fe4592245fb2.png)
+
+A few drones will prepare bricks, others will simultaneously build a ramp, while others will lay out the column. The drones will keep producing more bricks and constructing the ramp and the column similarly to how a 3D printer creates a print layer by layer. Once the cover is complete the a few drones will take back the bricks from the ramp to reuse for the next section of the cover to build.
 
 The design of the drones implies that they will compensate the fact that they are not individually strong with working in groups and consuming more time to build and maintain things. If we consider the cover structure as described and scaled to support 1000 residents, which will be enough for the entire first phase, it will require 90 million bricks. We will assume 1000 drones, one per resident, and average time to build a single brick of 10 minutes and average time to move and lay a single brick of 10 minutes. The time required to build the cover structure will be 3.5 years. Since the first phase is projected to 20 years, until 2050, it will be possible to build the cover with these 1000 drones, leaving sufficient time for dealing with malfunctions, time for recharging and other tasks.
 
