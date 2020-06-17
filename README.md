@@ -91,6 +91,8 @@ The city founder will need to either provide or contract:
  * Pipeline of tourists - for revenue
  * The minimum services - shelter, air, water, food and waste, energy and heating, communication - through the service platform we will describe later - for supporting the science and tourism activities
 
+<div style="page-break-after: always;"></div>
+
 The following calculation presents the scenario where the city founder provides and funds all minimum services. The calculation spreads all investments starting from a 10-year period before the city is founded. Capital and operating expenses are split in categories research and development (R&D), production, transportation, maintenance and operations with the following assumptions:
  * Research and development activities start in 2020 (which is 10 years before the planned date of city founding)
  * The population starts with 10 residents in 2030 and grows to 1000 residents in 2050
@@ -155,6 +157,8 @@ As the costs of migrating to Mars lowers with technology advances such as the sp
 The growing population will grow the market and the opportunities for new businesses. The governor organization will use this period to open the service platform to many businesses. It will become easier for new businesses to start operating and to introduce new products and services. The residents will enjoy higher variety and quality with lower prices as time passes.
 
 As in the previous period, the city will use a portion of its finances for the next milestone - building the first industrial factory in space.
+
+<div style="page-break-after: always;"></div>
 
 ## 2100: First industrial factory in space. Industrial phase
 
@@ -318,6 +322,8 @@ A few drones will prepare bricks, others will simultaneously build a ramp, while
 
 The design of the drones implies that they will compensate the fact that they are not individually strong with working in groups and consuming more time to build and maintain things. If we consider the cover structure as described and scaled to support 1000 residents, which will be enough for the entire first phase, it will require 90 million bricks. We will assume 1000 drones, one per resident, and average time to build a single brick of 10 minutes and average time to move and lay a single brick of 10 minutes. The time required to build the cover structure will be 3.5 years. Since the first phase is projected to 20 years, until 2050, it will be possible to build the cover with these 1000 drones, leaving sufficient time for dealing with malfunctions, time for recharging and other tasks.
 
+<div style="page-break-after: always;"></div>
+
 ## Modules
 
 Within the cave of the cover, the city will be built on top of a layer of connected modules. The modules will be lain on the ground arranged in a layout that completely covers the surface around the columns of the cover. These modules will be the flooring of all areas in the city - private, social and industrial. The modules will be standardized and therefore they will be possible to be repurposed, reused and replaced as needed.
@@ -337,6 +343,8 @@ The middle layer of the module is usually used for storage. But in private areas
 
 The module is always participating in the logistics system of the city as a transport relay. It is the lower layer of the module that is responsible for that. The module is connected to other modules tiling in a honeycomb structure. The tubes of adjacent modules get connected to form long pipes for transportation of goods in the capsules.
 
+<div style="page-break-after: always;"></div>
+
 This example city plan shows the modules of a section of a neighborhood with the private areas of residences in yellow; the social areas of gathering places in blue, streets in white and parks in green; the commercial areas of shops, offices in red; and the industrial areas of factories and labs in gray. The lower layer of the modules connects all spaces in a continuous logistics system:
 
 ![cityplan](https://user-images.githubusercontent.com/637315/84580071-4594a000-addc-11ea-9da6-859235a27b86.png)
@@ -353,6 +361,8 @@ An important role of control center is managing the logistics of the city. All e
 Businesses, in their role of service providers, will fill in capsules with the goods they supply and put them into the transportation system. Residents and other businesses, in their role of consumers, will receive the capsules, store them locally, consume the goods and eventually return the capsules. The control center will manage the transactions and will navigate the capsules from supplier to consumer.
 
 The infrastructure for 1000 residents - with 3 neighborhoods each consisting of 6000 cells - will have a total capacity of 622,080 cubic meters of deliveries per day, assuming 50 cells as average distance between supplier and consumer, capsule volume of 0.02 cubic meters, a limit of one capsule at a time in a cell and average velocity of a capsule of 4 m/s. Additionally, assuming a total of 6 cubic meters of supplies necessary for the basic needs of one person (air, water, food, energy, waste), then 1% of the capacity of the transport system of the infrastructure will be required for life support leaving a lot of room for mitigation of risks of local malfunctions, congestions and other possible disruptions. The remaining 99% of the capacity is available for additional commercial use.
+
+<div style="page-break-after: always;"></div>
 
 Finally, the control center is responsible for city's urban planning. All components of the infrastructure are managed by the control center and work together to move entire neighborhoods from locations of declining attractiveness to locations with better potential. The city will be able to get closer to newly discovered deposits of natural resources, move away from locations near depleted resources or where disasters stroke, or simply move quarters around points of interest where people prefer to live. This sequence of diagrams, illustrating the move of a block near pollution area (marked with a biohazard symbol) to a site of a new resource (marked with a green leaf symbol), demonstrates the power and flexibility of the infrastructure in the evolution of the city.
 
