@@ -140,8 +140,6 @@ The governor organization will also lay the foundations of the service platform 
 
 The income of the city will rely on the science projects and tourists. The city will re-invest part of the income in scaling the infrastructure and staff but will still need additional capital investments to reach population of 1 thousand. A portion of the investment will be used to build the first space elevator.
 
-<div style="page-break-after: always;"></div>
-
 ## 2050: First Space elevator. Real-estate phase
 
 The city will build its first space elevator in around 2050.
