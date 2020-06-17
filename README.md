@@ -356,14 +356,7 @@ An important role of control center is managing the logistics of the city. All e
 
 Businesses, in their role of service providers, will fill in capsules with the goods they supply and put them into the transportation system. Residents and other businesses, in their role of consumers, will receive the capsules, store them locally, consume the goods and eventually return the capsules. The control center will manage the transactions and will navigate the capsules from supplier to consumer.
 
-```
-Calculation of logistics of capsules in a neighborhood with 1000 residents and all basic services plus some amenities
-What is the volume of a capsule?
-How many capsules are needed for 1000 residents?
-How many capsules will be in transit at any given time?
-What speed they will travel at?
-What redundancy there is for emergencies, rerouting, peaks and growth of demand?
-```
+The infrastructure for 1000 residents - with 3 neighborhoods each consisting of 6000 cells - will have a total capacity of 622,080 cubic meters of deliveries per day, assuming 50 cells as average distance between supplier and consumer, capsule volume of 0.02 cubic meters, a limit of one capsule at a time in a cell and average velocity of a capsule of 4 m/s. Additionally, assuming a total of 6 cubic meters of supplies necessary for the basic needs of one person, then 1% of the capacity of the transport system of the infrastructure will be required for life support leaving a lot of room for mitigation of risks of local malfunctions, congestions and other possible disruptions. The remaining 99% of the capacity is available for additional commercial use.
 
 Finally, the control center is responsible for city's urban planning. All components of the infrastructure are managed by the control center and work together to move entire neighborhoods from locations of declining attractiveness to locations with better potential. The city will be able to get closer to newly discovered deposits of natural resources, move away from locations near depleted resources or where disasters stroke, or simply move quarters around points of interest where people prefer to live. This sequence of diagrams, illustrating the move of a block near pollution area (marked with a biohazard symbol) to a site of a new resource (marked with a green leaf symbol), demonstrates the power and flexibility of the infrastructure in the evolution of the city.
 
