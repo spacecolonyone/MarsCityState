@@ -21,7 +21,7 @@ We will describe these through the interaction of three participating groups:
 
 and through the phases of the development roadmap of the city, as defined by the achievement of the key milestones:
 
-![summary-1](https://user-images.githubusercontent.com/637315/83384163-5a8e2e00-a3ef-11ea-84b0-76282631c783.png)
+![summary-3](https://user-images.githubusercontent.com/637315/84954376-f44b2000-b0fd-11ea-8821-a9f19a58d0ce.png)
 
  * **City founded milestone** - City is founded as a small colony
  * **Science and tourism phase** - Period of developing science and tourism projects
@@ -157,8 +157,6 @@ As the costs of migrating to Mars lowers with technology advances such as the sp
 The growing population will grow the market and the opportunities for new businesses. The governor organization will use this period to open the service platform to many businesses. It will become easier for new businesses to start operating and to introduce new products and services. The residents will enjoy higher variety and quality with lower prices as time passes.
 
 As in the previous period, the city will use a portion of its finances for the next milestone - building the first industrial factory in space.
-
-<div style="page-break-after: always;"></div>
 
 ## 2100: First industrial factory in space. Industrial phase
 
