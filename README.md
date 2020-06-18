@@ -159,9 +159,7 @@ As in the previous period, the city will use a portion of its finances for the n
 
 ## 2100: First industrial factory in space. Industrial phase
 
-The city will build its first industrial factory in space in around 2100.
-
-Building on the first space elevator, a network of space elevators will speed up and improve the logistics between the surface of Mars, its orbits as well as the Earth and asteroid belt. The city will have a clear advantage over Earth in building a large industrial complex in space. This complex will have lower cost for transportation and construction as compared to the competition on Earth. It will have high levels of automation with operations in space premises performed by robots and remotely controlled from Mars surface.
+Building on the first space elevator, a network of space elevators will speed up and improve the logistics between the surface of Mars, its orbits as well as the Earth and asteroid belt. The city will have a clear advantage over Earth in building a large industrial complex in space. The city will build its first industrial factory in space in around 2100 and gradually form an entire industial zone. This complex will have lower cost for transportation and construction as compared to the competition on Earth. It will employ high levels of automation with operations in space premises performed by robots and remotely controlled from Mars surface.
 
 ![city-2100](https://user-images.githubusercontent.com/637315/84044737-9e190700-a9b0-11ea-884b-666b05097d0b.jpg)
 
@@ -177,41 +175,41 @@ After building its first industrial factory in space in around 2100, the city wi
 
 ![city-2150](https://user-images.githubusercontent.com/637315/84044739-9f4a3400-a9b0-11ea-855a-28610aa66580.jpg)
 
-The city will become fully developed and self-sustaining, but still a partner to Earth. The service platform will have a wealth of active businesses and new Mars-native businesses will appear. The city will be still attractive for economic growth but will no longer be dependent on entrepreneurs from Earth as local businesses will lead its growth.
+The city will become fully developed and self-sustaining, but still a partner to Earth. The service platform will have a wealth of active businesses and new Mars-native businesses will appear. The city will continue to be an attractive location for businesses but will no longer be dependent on entrepreneurs from Earth as local businesses will now lead its growth.
 
 By covering the lower level needs of the residents, the service platform will free room for higher aspects of life to develop in a natural way. The people will use their free time for socializing, for parenting, for hobbies, for culture, for business, etc.
 
-All aspects of life will still be well connected to those on Earth. For example, with service providers of Internet on Mars that solve network latency by mirroring content locally, residents on Mars will be able to enjoy the same TV shows, sports events, etc. that their friends from Earth enjoy.
+All aspects of life will still be well connected to those on Earth. For example, with service providers of Internet on Mars that solve network latency, for example by mirroring content locally, residents on Mars will be able to enjoy the same TV shows, sports events, etc. that their friends from Earth enjoy.
 
 Some aspects of life may, however, have diverging development on Mars. For example, with the high degree of automation and artificial intelligence of the service platform and the infrastructure, there may be no need for taxes for business activity (like VAT on Earth) and the economy on Mars may become far more fluid than that on Earth.
 
-The city on Mars will become a unique extension to human civilization. It will participate in the "global" (now interplanetary) system but will build its own lifestyle and add to diversity of mankind.
+The city on Mars will become a unique extension to human civilization. It will participate in the "global" (now interplanetary) system but will build its own lifestyle and add to mankind's diversity.
 
 <div style="page-break-after: always;"></div>
 
 # Service platform
 
-The city growth and the development path described is driven by the interaction of three groups - the governor, the businesses and the residents.
+The city growth and the development path we described is driven by the interaction of three groups - the governor, the businesses and the residents.
 
 ![interactions](https://user-images.githubusercontent.com/637315/82742061-d9d19100-9d61-11ea-8c42-51047d462652.png)
 
-The governor organization provides businesses with a platform for services and the infrastructure to access their consumers and suppliers. In return the businesses pay for use of the platform and infrastructure. The governor will maintain the infrastructure to ensure the businesses and people can exchange goods and services.
+The governor organization provides businesses with a platform for services and the infrastructure to access consumers and suppliers. In return the businesses pay for using the platform and infrastructure. The governor will maintain the infrastructure to ensure the businesses and people can reliably exchange goods and services.
 
-The governor organization regulates the services and provides city residents with secure services as well as housing. In return the residents pay for the housing they rent. The rent covers access to the services, other amenities and the capacity of the governor organization to ensure through regulation that the services are available and do not put lives at risk.
+The governor organization regulates the services and provides city residents with secure services as well as housing. In return the residents pay for the housing they rent. The rent covers access to the services, other amenities and the capacity of the governor organization to ensure (through regulation) that the services are available and do not put lives at risk.
 
 All needs of the residents are met by the services the businesses provide, for which the residents pay the businesses.
 
 ## Minimum set of services
 
-The primary purpose of the service platform is to meet the biological and physiological needs of the residents. The governor ensures a minimum set of services on the platform that provide enough supply for all residents. The governor regulates the services to ensure they are accessible, safe to consume and with guarantied availability.
+The primary purpose of the service platform is to meet the biological and physiological needs of the residents. The governor ensures the availability of a minimum set of services on the platform that provide enough supply for all residents. The governor regulates these services to ensure they are accessible, safe to consume and with guarantied availability.
 
-In the beginning, the governor will contract the service providers for the minimum set of services. Later, as the city grows and becomes more attractive to new businesses, the governor will ensure there is sufficient supply for the minimum set of services only by maintaining the service platform and will only rarely directly contract service providers.
+In the beginning, the governor will contract the service providers for the minimum set of services. Later, as the city grows and becomes more attractive to new businesses, the governor will ensure there is sufficient supply for the minimum set of services only by running the service platform and will only rarely directly contract service providers.
 
-The design of the city sets the role of the service platform as a key support for the interaction among the governor, residents and businesses to achieve the milestones and grow the city. The design is not bound to any specific implementation of the different services. Instead it is open to accommodate the innovation businesses can bring to solve the challenges in living on Mars.
+The design of the city sets the role of the service platform as a key support for the interaction among the governor, residents and businesses to achieve the milestones and grow the city. The design is not bound to any specific implementation of the different services. Instead it is open to accommodating the innovation businesses can bring to solve the challenges in living on Mars.
 
 We will only look at examples for possible implementations of the different services in the minimum set:
 
- * **Shelter** - Basic protection from the harsh environment on Mars, from radiation and bad weather, will be provided by the infrastructure, part of the service platform. A cover made of rammed soil at least one meter thick will form a cave that provides sufficient space for living and protection from the natural environment on Mars. The cover will block the radiation from the Sun and Space. The cave will be intentionally larger than the room needed for the residents and will maintain better environment in terms of temperature and air pressure although not enough for living without additional protection. The infrastructure of the service platform will include inflatable habitat as a second level of protection. The habitat will maintain fresh air and constant room temperature. For the cases of emergencies, the infrastructure will also offer light protective suits and emergency spaces to hide. These three levels of protection will be constantly monitored and maintained in automated way. The shelter will have in-built communication infrastructure that ensures connection to the control center and the rest of the world. We will look in more detail into it in the next section.
+ * **Shelter** - Basic protection from the harsh environment on Mars, from radiation and bad weather, will be provided by the infrastructure, part of the service platform. A cover made of rammed soil at least one meter thick will form a cave that will provide sufficient space for living and protection from the natural environment on Mars. The cover will block the radiation from the Sun and Space. The cave will be intentionally larger than the room needed for the residents and will maintain better environment in terms of temperature and air pressure although not enough for living without additional protection. The infrastructure of the service platform will include inflatable habitat as a second level of protection. The habitat will maintain fresh air and constant room temperature. For the cases of emergencies, the infrastructure will also offer light protective suits and emergency spaces to hide. These three levels of protection will be constantly monitored and maintained in automated way. The shelter will have an in-built communication system that will ensure connection to the control center and the rest of the world. We will look in more detail into this infrastructure in the next section.
 
  * **Air** - Breathable air will be constantly recycled from imported and locally produced air. Service providers will use a variety of technologies to produce and recycle air and will be able to choose the appropriate mix to optimize financial returns. For example, they can import oxygen from Earth, extract it from the water reserves of the city or recycle the used air. Regulations by the governor will include provisions for the quality of air, capacity, redundancies and emergency procedures. Service providers will have the choice of specializing in supplying air or combining air supply with other services, such as air conditioning and heating.
 
@@ -225,17 +223,17 @@ We will only look at examples for possible implementations of the different serv
 
 ## Amenities
 
-The secondary purpose of the service platform is to meet the higher-level needs of the residents. The governor will not necessarily enforce strict regulations on these since people's lives do not directly depend on them, as the case with the minimum set of services is. Nevertheless, the governor may contract service providers for under-supplied services to maintain higher lifestyle of the residents and overall attractiveness of the city.
+The secondary purpose of the service platform is to meet the higher-level needs of the residents. The governor will not necessarily enforce strict regulations on these since people's lives do not directly depend on them, as the case with the minimum set of services is. Nevertheless, the governor may contract service providers for under-supplied services to maintain better lifestyle of the residents and overall attractiveness of the city.
 
 Some examples of services that will use the same service platform are:
 
  * **Security** - as the city grows there will be growing need for keeping the peace and resolving conflicts. Because the city will be equipped with highly monitored infrastructure that is since day one capable of and responsible for tracking people with the purpose of protecting them in case of emergencies, police and bodyguard services will be collaborating with the governor organization and the infrastructure.
 
- * **Health** - similarly, the health of the residents will be a concern of the governor and there will be basic but well-integrated health monitoring capabilities in the infrastructure of the city. Additional services will be further supplied by independent service providers possibly with close collaboration with the infrastructure of the city. They can start with individual doctors and grow into hospitals as the city grows.
+ * **Health** - similarly, the health of the residents will be a concern of the governor and there will be basic but well-integrated health monitoring capabilities in the infrastructure of the city. Additional services will be further supplied by independent service providers possibly with close collaboration with the infrastructure of the city. They can start with individual doctors and as the city grows build large hospitals.
 
- * **Education** - the needs for education will be probably in the beginning rely on connection to Earth. Virtual classrooms, individual practices, coaches - these can all be done online even considering the latency between Mars and Earth. As the needs grow and local education facilities become viable, they will appear in the service platform. The city will be founded on exporting science related to Space research and it will be just a matter of time until education in more spheres of knowledge will be exported too.
+ * **Education** - the needs for education will rely on connection to Earth at least in the very beginning. Virtual classrooms, individual practices, coaches - these can all be done online even considering the latency between Mars and Earth. As the needs grow and local education facilities become viable, they will appear in the service platform. The city will be founded on exporting science related to Space research and it will be just a matter of time until education in more spheres of knowledge will be exported too.
 
- * **Entertainment** - the need for entertainment and socializing will a variety of services - cinemas, theaters, restaurants, cafes, pubs. 
+ * **Entertainment** - the need for entertainment and socializing will attract a variety of services - cinemas, theaters, restaurants, cafes, pubs. 
 
  * And many more like **sports**, **leisure**, **travel**, **shopping**, etc.
 
@@ -257,13 +255,13 @@ The service platform will start small with the foundation of the city and will g
 
 ![roadmap-service-platform](https://user-images.githubusercontent.com/637315/82843011-5ab89600-9ee4-11ea-9960-d2c121bee172.png)
 
-When the city is founded and enters its **Science and tourism phase**, the governor will be hiring the companies and staff accommodating the scientists and tourists. It will also hire service companies to provide the minimal set of services to support life in the city. As the economy in this phase is dependent on the capability of the governor to attract science and tourist projects, the number of operating services will be small, they will provide low variety of services and most of these services, if not all, will be considered essential so the governor will be contracting and regulating them.
+When the city is founded and enters its **Science and tourism phase**, the governor will be hiring the companies and staff who will accommodate the scientists and tourists. It will also hire service companies to provide the minimal set of services to support life in the city. As the economy in this phase is dependent on the capability of the governor to attract science and tourist projects, the number of operating services will be small, they will provide low variety of services and most of these services, if not all, will be considered essential so the governor will be contracting and regulating them.
 
 Already at this point the governor will provide the common **modular infrastructure** to support delivery of the services. The governor will also **regulate the services** to ensure residents receive adequate life support and that relevant risks concerning service outages and people health are mitigated. The service platform will have developed two of its three key characteristics but will still be small and funded by the governor.
 
 After the city passes the **First space elevator milestone** and enters its **Real-estate phase** the service platform will need to expand to support more than a thousand residents. It will add its third key characteristic - the **marketplace for services**. The platform will continue providing the common infrastructure and regulation over services and will now also be driven by competition based on the free market forces of supply and demand. At this point it will be common for more than one service company to provide the same or similar services, since they are now attracted by the market and not hired by the governor.
 
-After the city passes the **First industrial factory milestone** and enters its **Industrial phase** the service platform will need to be prepared for hundreds of thousands of residents. The expanded economy will allow for high variety of services. The service platform will additionally boost variety and innovation by opening the marketplace and the underlying infrastructure for extensions by businesses. As a result, the overall level of uniformity of the infrastructure may get slightly reduced because some residents will be using extensions that others are not using, but as long as extensions do not compromise the compatibility of the blocks for the basic functions the businesses will be able to add a lot to the evolution of the infrastructure and increase the speed of development of the city. 
+After the city passes the **First industrial factory milestone** and enters its **Industrial phase** the service platform will need to be prepared for hundreds of thousands of residents. The expanded economy will allow for high variety of services. The service platform will additionally boost variety and innovation by opening the marketplace and the underlying infrastructure to extensions by businesses. As a result, the overall level of uniformity of the infrastructure may get slightly reduced because some residents will be using extensions that others are not using, but as long as extensions do not compromise the compatibility of the basic functions of the infrastructure modules the businesses will be able to add a lot to the evolution of the infrastructure and increase the speed of development of the city. 
 
 <div style="page-break-after: always;"></div>
 
@@ -273,11 +271,11 @@ Finally, we will describe the modular infrastructure - the physical support of t
 
 ## Cover
 
-The entire city is covered with a structure made of bricks of rammed soil. The cover provides space for the residents to live in and a first-level protection from radiation and bad weather. There are also the second-level protection by the module inflatables and the third level (emergency) protection by the module cabin we will describe later.
+The entire city is covered with a structure made of bricks of rammed soil. The cover provides space for the residents to live in and a first-level protection from radiation and bad weather. There are also the second-level protection by the module inflatables and the third level protection by the emergency bunker we will describe later.
 
 Experiments with Mars soil simulant suggest that the abundant soil of Mars may be used to create strong bricks with little additives if any at all. The weaker gravity of Mars will allow the structures made of rammed soil to be erected taller than equivalent structures made of rammed soil on Earth. This material will not require expenses for transportation from Earth allowing for large structures to be build at lower cost.
 
-Our design will use honeycomb tiling structure with hexagons with diagonal of 4 meters, where every hexagon border with exactly 3 columns. The columns will be 1 meter in diameter and 6 meters tall. The columns will support 60-degree roofs that top 12 meters above ground.
+Our design will use honeycomb tiling structure with hexagons with diagonal of 4 meters, where every hexagon borders with exactly 3 columns. The columns will be 1 meter in diameter and 6 meters tall. The columns will support 60-degree roofs that top 12 meters above ground.
 
 ![cover-structure](https://user-images.githubusercontent.com/637315/84602507-8fd75900-ae90-11ea-88d1-98891cf4ed3e.png)
 
@@ -285,7 +283,7 @@ The cover will provide isolation in terms of air pressure and temperature. It wi
 
 <div style="page-break-after: always;"></div>
 
-The city will build cover following its growth. The first phase of the development of the city will require cover for 1000 residents, which will be made of 3 neighborhoods, each being 180 meters in diameter and consisting of 6000 cells - for private, social and industrial use - arranged in honeycomb tiling in 45 rounds around a center cell. The city will use many such neighborhoods in clusters around points of interest on the surface of Mars. A total of 3000 such neighborhoods will be required for the city to reach population of 1 million. One neighborhood will look like this from the outside:
+The city will gradually build its cover to meet its population growth. The first phase of the development of the city will require cover for 1000 residents, which will be made of 3 neighborhoods, each being 180 meters in diameter and consisting of 6000 cells (for private, social and industrial use) arranged in honeycomb tiling in 45 rounds around a center cell. The city will use many such neighborhoods in clusters around points of interest on the surface of Mars. A total of 3000 such neighborhoods will be required for the city to reach population of 1 million. One neighborhood will look like this from the outside:
 
 ![neighborhood](https://user-images.githubusercontent.com/637315/84333226-d3cc1480-ab97-11ea-8e94-94037091600a.png)
 
@@ -297,7 +295,7 @@ The habitat should be good from psychological point of view, too. Therefore, it 
 
 ## Drones
 
-The cover is constructed and maintained by automated drones. The drones also lay the modules inside the cover. These maintenance drones will be designed to be simple and cheap. They will be controlled centrally by the control center and will be most effective when swarming in large numbers over a task.
+The cover is constructed and maintained by robotic drones. The drones also lay the modules inside the cover. They will be designed to be simple and cheap. They will be controlled centrally by the control center and will be most effective when swarming in large numbers over a task.
 
 A single drone is configured to perform one or more of the following tasks:
 
@@ -315,9 +313,9 @@ The following sequence shows a simulation of drones swarming to build the cover 
 
 ![drone-swarm](https://user-images.githubusercontent.com/637315/84834553-52163400-b03a-11ea-8cd4-fe4592245fb2.png)
 
-A few drones will prepare bricks, others will simultaneously build a ramp, while others will lay out the column. The drones will keep producing more bricks and constructing the ramp and the column similarly to how a 3D printer creates a print layer by layer. Once the cover is complete the a few drones will take back the bricks from the ramp to reuse for the next section of the cover to build.
+We see in the sequence how a few drones will prepare bricks, others will simultaneously build a ramp, while others will lay out the column. The drones will keep producing more bricks and constructing the ramp and the column similarly to how a 3D printer creates a print layer by layer. Once the cover is complete then a few drones will reclaim the bricks from the ramp for reuse in a next section of the cover.
 
-The design of the drones implies that they will compensate the fact that they are not individually strong with working in groups and consuming more time to build and maintain things. If we consider the cover structure as described and scaled to support 1000 residents, which will be enough for the entire first phase, it will require 90 million bricks. We will assume 1000 drones, one per resident, and average time to build a single brick of 10 minutes and average time to move and lay a single brick of 10 minutes. The time required to build the cover structure will be 3.5 years. Since the first phase is projected to 20 years, until 2050, it will be possible to build the cover with these 1000 drones, leaving sufficient time for dealing with malfunctions, time for recharging and other tasks.
+The design of the drones implies that by working in groups and consuming more time to build and maintain things they will compensate the fact that they are not individually strong. If we consider the cover structure as described and scaled to support 1000 residents, which will be enough for the entire first phase, it will require 90 million bricks. We will assume 1000 drones, one per resident, and average time to build a single brick of 10 minutes and average time to move and lay a single brick of 10 minutes. The time required to build the cover structure will be 3.5 years. Since the first phase is projected to 20 years, until 2050, it will be possible to build the cover with these 1000 drones, leaving sufficient time for dealing with malfunctions, time for recharging and other tasks.
 
 <div style="page-break-after: always;"></div>
 
