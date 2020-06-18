@@ -143,7 +143,7 @@ The income of the city will rely on the science projects and tourists. The city 
 
 ## 2050: First Space elevator. Real-estate phase
 
-The city will build its first space elevator in around 2050. A space elevator is a type of planet-to-space transportation system permit vehicles to travel along a cable from the surface directly into space or orbit without the use of large rockets, where the cable is held up from above by centrifugal forces.
+The city will build its first space elevator in around 2050. A space elevator is a type of planet-to-space transportation system taht permits vehicles to travel along a cable from the surface directly into space or orbit without the use of large rockets, where the cable is held up from above by centrifugal forces. We do not yet have material for such a long cable that can withstand the gravitational forces of the Earth, but a space elevator is feasible on Mars because we have such material for its weaker gravitational forces.
 
 ![city-2050](https://user-images.githubusercontent.com/637315/84036017-4e810e00-a9a5-11ea-9ee4-55018acf86d5.jpg)
 
