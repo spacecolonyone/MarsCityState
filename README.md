@@ -4,32 +4,30 @@
 
 # Summary
 
-The following is a design of an envisioned city on Mars reaching population of 1 million people. It describes a pioneering large settlement in space - one that should be possible to build already in 21st century. Its design focuses on characteristics that will make it practical, vital and sustainable. As such, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space.
-
-![summary-2](https://user-images.githubusercontent.com/637315/83384160-59f59780-a3ef-11ea-82eb-34034fcdf9e0.png)
-
-The design of the city is based on four key characteristics:
- * **Economic attractiveness** - while Earth in 21st century is seeing the limit to its population and fierce competition over natural resources, the city on Mars will offer businesses healthy economic growth through access to **fast-growing population** and **untapped resources**
- * **Development roadmap** - the **identity of the city** will evolve around a sequence of **major milestones** in its development - building the first space elevator and the first industrial factory in space - attracting the right residents to support it
- * **Service platform** - the city will provide a platform for services for the needs of its residents and businesses. It will make it easy for businesses to quickly start and **scale** their operations. It will also enforce **regulation** over all services to ensure they are safe to be consumed by the residents
- * **Modular infrastructure** - the infrastructure provides basis for the logistics in the city through an assembly of standardized **reusable** modules. The blocks are easy to replace when damaged and easy to relocate when the city needs to **adapt** and evolve
-
-We will describe these through the interaction of three participating groups:
- * **Governor** - the organization that initially founds the city and then runs it
- * **Residents** - the people who live and work in the city
- * **Businesses** - the service companies that supply the residents with everything needed to sustain and improve the quality of their lives
-
-and through the phases of the development roadmap of the city, as defined by the achievement of the key milestones:
-
-![summary-3](https://user-images.githubusercontent.com/637315/84954376-f44b2000-b0fd-11ea-8821-a9f19a58d0ce.png)
+The following is a design of an envisioned city on Mars capable of reaching population of 1 million people by mid 22nd century. Its design focuses on characteristics that will make it practical, vital and sustainable. As a pioneering large settlement, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space. It will develop through three major phases defined by the achievement of four milestones:
 
  * **City founded milestone** - City is founded as a small colony
  * **Science and tourism phase** - Period of developing science and tourism projects
  * **First space elevator milestone** - The first space elevator is built. It will boost the transport channels to the surface of the planet
  * **Real estate phase** - Period of city expansion and the development of attractive marketplace for real estate on Mars
  * **First industrial factory milestone** - The first industrial zone in orbit is built. It will boost the industrial potential of the city
- * **Industrial phase** - Period of developing manufacturing power. It will make the city self-sustaining and independent from Earth
+ * **Industrial phase** - Period of developing manufacturing power. It will make the city self-sustaining and autonomous
  * **Population of 1 million milestone**
+
+![summary-2](https://user-images.githubusercontent.com/637315/83384160-59f59780-a3ef-11ea-82eb-34034fcdf9e0.png)
+
+The design of the city is based on four key characteristics:
+ * **Economic attractiveness** - while Earth in 21st century is seeing the limit to its population and fierce competition over natural resources, the city on Mars will offer businesses healthy economic growth through access to **fast-growing population** and **untapped resources**
+ * **Development roadmap** - the **identity of the city** will evolve around a sequence of **major milestones** in its development - like building the first space elevator and the first industrial factory in space. This identity will attract the right residents to join the city and be part of its development
+ * **Service platform** - the city will provide a platform for services for the needs of its residents and businesses. It will make it easy for businesses to quickly start and **scale** their operations. It will also enforce **regulation** over all services to ensure they are safe to be consumed by the residents
+ * **Modular infrastructure** - the infrastructure provides basis for the logistics in the city through an assembly of standardized **reusable** modules. The blocks are easy to replace when damaged and easy to relocate when the city needs to **adapt** and evolve
+
+![summary-3](https://user-images.githubusercontent.com/637315/84954376-f44b2000-b0fd-11ea-8821-a9f19a58d0ce.png)
+
+We will describe these through the interaction of three participating groups:
+ * **Governor** - the organization that initially founds the city and then runs it
+ * **Residents** - the people who live and work in the city
+ * **Businesses** - the service companies that supply the residents with everything needed to sustain and improve the quality of their lives
 
 <div style="page-break-after: always;"></div>
 
