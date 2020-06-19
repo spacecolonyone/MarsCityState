@@ -4,7 +4,7 @@
 
 # Summary
 
-The following is a design of an envisioned city on Mars capable of reaching population of 1 million people by mid 22nd century. Its design focuses on characteristics that will make it practical, vital and sustainable. As a pioneering large settlement, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space. It will develop through three major phases defined by the achievement of four milestones:
+The following is a design of an envisioned city on Mars capable of reaching population of 1 million people by mid-22nd century. Its design focuses on characteristics that will make it practical, vital and sustainable. As a pioneering large settlement, the design of this city will greatly differ from possible designs of future cities created after mankind has well established its presence in space. It will develop through three major phases defined by the achievement of four milestones:
 
  * **City founded milestone** - City is founded as a small colony
  * **Science and tourism phase** - Period of developing science and tourism projects
@@ -159,7 +159,7 @@ As in the previous period, the city will use a portion of its finances for the n
 
 ## 2100: First industrial factory in space. Industrial phase
 
-Building on the first space elevator, a network of space elevators will speed up and improve the logistics between the surface of Mars, its orbits, the asteroid belt and Earth. The city will have a clear advantage over Earth in building a large industrial complex in space. The city will build the first factory in around 2100 and gradually form an entire industial zone. This complex will have lower cost for transportation and construction as compared to the competition on Earth. It will employ high levels of automation with operations in space premises performed by robots and remotely controlled from Mars surface.
+Building on the first space elevator, a network of space elevators will speed up and improve the logistics between the surface of Mars, its orbits, the asteroid belt and Earth. The city will have a clear advantage over Earth in building a large industrial complex in space. The city will build the first factory in around 2100 and gradually form an entire industrial zone. This complex will have lower cost for transportation and construction as compared to the competition on Earth. It will employ high levels of automation with operations in space premises performed by robots and remotely controlled from Mars surface.
 
 ![city-2100](https://user-images.githubusercontent.com/637315/84044737-9e190700-a9b0-11ea-884b-666b05097d0b.jpg)
 
@@ -273,7 +273,7 @@ Finally, we will describe the modular infrastructure - the physical support of t
 
 The entire city is covered with a structure made of bricks of rammed soil. The cover provides space for the residents to live in and a first-level protection from radiation and bad weather. There are also the second-level protection by the module inflatables and the third level protection by the emergency bunker we will describe later.
 
-Experiments with Mars soil simulant suggest that the abundant soil of Mars may be used to create strong bricks with little additives if any at all. The weaker gravity of Mars will allow the structures made of rammed soil to be erected taller than equivalent structures made of rammed soil on Earth. This material will not require expenses for transportation from Earth allowing for large structures to be build at lower cost.
+Experiments with Mars soil simulant suggest that the abundant soil of Mars may be used to create strong bricks with little additives if any at all. The weaker gravity of Mars will allow the structures made of rammed soil to be erected taller than equivalent structures made of rammed soil on Earth. This material will not require expenses for transportation from Earth allowing for large structures to be built at lower cost.
 
 Our design will use honeycomb tiling structure with hexagons with diagonal of 4 meters, where every hexagon borders with exactly 3 columns. The columns will be 1 meter in diameter and 6 meters tall. The columns will support 60-degree roofs that top 12 meters above ground.
 
@@ -376,7 +376,7 @@ This sequence of diagrams, illustrating the move of a block that is close to an 
  * https://ourworldindata.org/world-population-growth - Data on world's population growth
  * https://www.researchgate.net/publication/222382174_Population_Growth_in_the_World's_Largest_Cities - Data on expected population growth for cities
  * https://en.wikipedia.org/wiki/Moore%27s_law - Information on Moore's law and empirical data on exponential growth of technology advancement
- * https://en.wikipedia.org/wiki/Asteroid_mining - Information on asteorid mining and distance from Mars to the asteroid belt
+ * https://en.wikipedia.org/wiki/Asteroid_mining - Information on asteroid mining and distance from Mars to the asteroid belt
  * https://en.wikipedia.org/wiki/Three-sector_model - Description of the three-sector model in economics
  * https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040075697.pdf - Comparison between the working cost estimating methodologies of the cost engineering functions in NASA Marshall Space Flight Center (MSFC) and ESA European Space Research and Technology Centre (ESTEC)
  * https://en.wikipedia.org/wiki/Space_elevator - Information on the technology of space elevators
